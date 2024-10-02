@@ -1,6 +1,7 @@
 ---
 title: 'Sample Post'
 date: '2024-10-02'
+date-format: long
 ---
 
 This is a sample post.

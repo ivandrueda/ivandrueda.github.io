@@ -1,0 +1,14 @@
+---
+title: 'Building a molecular test for an emerging disease in a global pandemic'
+image: bw_know_device.png
+date: '2022-01-18'
+date-format: long
+---
+
+Six months before the COVID-19 pandemic took the world by storm, I had the great fortune of
+a trio of entrepreneurs taking an interest in some unique diagnostic patents I had generated earlier in
+my career while at Monolythix. We had a shared vision to make diagnostics accessible to everyone and everywhere then built up a company, BiologyWorks, together with some of his friends. Suddenly, I found
+myself helping to get a business plan together, conducting market analysis, and convince
+others that we are worth their investment. We were successful in gaining funding and suddenly
+the pandemic took off but that was only the beginning. A whole journey ensued after in
+bringing up a laboratory, forming a team, developing a product, and then taking it to market.

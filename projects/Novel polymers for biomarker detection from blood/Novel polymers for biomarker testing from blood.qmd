@@ -1,0 +1,8 @@
+---
+title: 'Novel polymers for biomarker testing from blood'
+image: monolith.jpg
+date: '2017-07-28'
+date-format: long
+---
+
+Rueda, I., McFadden, I., Dobbs, M., Shum, V., Oberg, K., Spence, A., & Caldwell, W. (2016). US10752937B2 - Processing blood samples to detect target nucleic acids. Retrieved 28 December 2021, from https://patents.google.com/patent/US10752937B2
