@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Ivan D. Rueda"
+  site-url: "http://ivandrueda.github.io"
   navbar:
     background: "#101820" 
     left:

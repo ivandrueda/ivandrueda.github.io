@@ -1,8 +1,7 @@
 ---
 listing:
   categories: true
-  contents:
-  - '*.qmd'
+  contents: '*.qmd'
   feed: true
   filter-ui: false
   sort: date desc

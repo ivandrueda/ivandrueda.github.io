@@ -1,0 +1,6 @@
+---
+title: 'Sample Post'
+date: '2024-10-02'
+---
+
+This is a sample post.
