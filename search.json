@@ -11,7 +11,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Sample Project\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Building a molecular test for an emerging disease in a global pandemic\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\nJan 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNovel polymers for biomarker testing from blood\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\nJul 28, 2017\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html",
+    "title": "Building a molecular test for an emerging disease in a global pandemic",
+    "section": "",
+    "text": "Six months before the COVID-19 pandemic took the world by storm, I had the great fortune of a trio of entrepreneurs taking an interest in some unique diagnostic patents I had generated earlier in my career while at Monolythix. We had a shared vision to make diagnostics accessible to everyone and everywhere then built up a company, BiologyWorks, together with some of his friends. Suddenly, I found myself helping to get a business plan together, conducting market analysis, and convince others that we are worth their investment. We were successful in gaining funding and suddenly the pandemic took off but that was only the beginning. A whole journey ensued after in bringing up a laboratory, forming a team, developing a product, and then taking it to market.\n\n\n\nCitationBibTeX citation:@misc{rueda2022,\n  author = {Ivan De Jesus Rueda},\n  title = {Building a Molecular Test for an Emerging Disease in a Global\n    Pandemic},\n  date = {2022-01-18},\n  url = {http://ivandrueda.github.io/projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2022. “Building a Molecular Test for an\nEmerging Disease in a Global Pandemic.” http://ivandrueda.github.io/projects/k(now)\nCOVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html."
   },
   {
     "objectID": "posts/sample-post/sample-post.html",
@@ -21,11 +28,11 @@
     "text": "This is a sample post.\n\n\n\nCitationBibTeX citation:@misc{rueda2024,\n  author = {Ivan De Jesus Rueda},\n  title = {Sample {Post}},\n  date = {2024-10-02},\n  url = {http://ivandrueda.github.io/posts/sample-post/sample-post.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2024. “Sample Post.” http://ivandrueda.github.io/posts/sample-post/sample-post.html."
   },
   {
-    "objectID": "projects/sample-project/sample-project.html",
-    "href": "projects/sample-project/sample-project.html",
-    "title": "Sample Project",
+    "objectID": "projects/Novel polymers for biomarker detection from blood/Novel polymers for biomarker testing from blood.html",
+    "href": "projects/Novel polymers for biomarker detection from blood/Novel polymers for biomarker testing from blood.html",
+    "title": "Novel polymers for biomarker testing from blood",
     "section": "",
-    "text": "This is a sample Project.\n\n\n\nCitationBibTeX citation:@misc{rueda,\n  author = {Ivan De Jesus Rueda},\n  title = {Sample {Project}},\n  url = {http://ivandrueda.github.io/projects/sample-project/sample-project.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. n.d. “Sample Project.” http://ivandrueda.github.io/projects/sample-project/sample-project.html."
+    "text": "Rueda, I., McFadden, I., Dobbs, M., Shum, V., Oberg, K., Spence, A., & Caldwell, W. (2016). US10752937B2 - Processing blood samples to detect target nucleic acids. Retrieved 28 December 2021, from https://patents.google.com/patent/US10752937B2\n\n\n\nCitationBibTeX citation:@misc{rueda2017,\n  author = {Ivan De Jesus Rueda},\n  title = {Novel Polymers for Biomarker Testing from Blood},\n  date = {2017-07-28},\n  url = {http://ivandrueda.github.io/projects/Novel polymers for biomarker detection from blood/Novel polymers for biomarker testing from blood.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2017. “Novel Polymers for Biomarker Testing\nfrom Blood.” http://ivandrueda.github.io/projects/Novel\npolymers for biomarker detection from blood/Novel polymers for biomarker\ntesting from blood.html."
   },
   {
     "objectID": "index.html",
