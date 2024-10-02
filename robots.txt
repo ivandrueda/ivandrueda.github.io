@@ -1,1 +1,1 @@
-Sitemap: https://ivandrueda.github.io/sitemap.xml
+Sitemap: http://ivandrueda.github.io/sitemap.xml

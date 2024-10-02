@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ivandrueda.github.io/about.html</loc>
-    <lastmod>2024-10-02T18:45:32.149Z</lastmod>
+    <loc>http://ivandrueda.github.io/blog.html</loc>
+    <lastmod>2024-10-02T18:59:42.114Z</lastmod>
   </url>
   <url>
-    <loc>https://ivandrueda.github.io/index.html</loc>
-    <lastmod>2024-10-02T18:50:32.437Z</lastmod>
+    <loc>http://ivandrueda.github.io/posts/sample-post.html</loc>
+    <lastmod>2024-10-02T19:13:47.248Z</lastmod>
+  </url>
+  <url>
+    <loc>http://ivandrueda.github.io/posts/index.html</loc>
+    <lastmod>2024-10-02T19:14:55.446Z</lastmod>
+  </url>
+  <url>
+    <loc>http://ivandrueda.github.io/index.html</loc>
+    <lastmod>2024-10-02T19:14:58.342Z</lastmod>
   </url>
 </urlset>

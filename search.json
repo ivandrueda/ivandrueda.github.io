@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
     "section": "",
-    "text": "My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. Currently I live in Chicago, Illinois, with my corgi, Star.  Please visit LinkedIn for more information about my professional experience or the Projects page to see work I’ve done."
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\n\n\n\n\n\n\nSample Post\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html#key-research-interests",
-    "href": "about.html#key-research-interests",
-    "title": "About Me",
-    "section": "Key Research Interests",
-    "text": "Key Research Interests\n\nDiagnostics: TEXT\nComputational Biology & Data Science: TEXT\nPrecision Functionalized Biomaterials: TEXT"
+    "objectID": "posts/sample-post.html",
+    "href": "posts/sample-post.html",
+    "title": "Sample Post",
+    "section": "",
+    "text": "This is a sample post.\n\n\n\nCitationBibTeX citation:@misc{rueda2024,\n  author = {Ivan De Jesus Rueda},\n  title = {Sample {Post}},\n  date = {2024-10-02},\n  url = {http://ivandrueda.github.io/posts/sample-post.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2024. “Sample Post.” http://ivandrueda.github.io/posts/sample-post.html."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Sample Post\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\nNo matching items\n\nCitationBibTeX citation:@misc{rueda,\n  author = {Ivan De Jesus Rueda},\n  title = {Blog},\n  url = {http://ivandrueda.github.io/posts},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. n.d. “Blog.” http://ivandrueda.github.io/posts."
   },
   {
     "objectID": "index.html",
