@@ -1,5 +1,20 @@
 ---
-title: "About"
+title: "About Me"
+about:
+  template: jolla
+#   image: profile.jpg
 ---
 
-About this site
+Text about me
+
+## Education
+
+**The Johns Hopkins University** | Baltimore, MD <br>
+MS/MBA in Biotechnology | Sept 2020 - May 2025
+
+**California State University, Northridge**| Northridge, CA <br>
+BS in Biology | Sept 2008 - May 2013
+
+## Experience
+
+**Firm** | Role | start - present

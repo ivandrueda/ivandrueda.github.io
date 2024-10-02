@@ -1,5 +1,5 @@
 ---
-title: "ivandrueda.github.io"
+title: "Home"
 ---
 
 This is a Quarto website.

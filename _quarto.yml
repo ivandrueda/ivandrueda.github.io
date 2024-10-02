@@ -3,13 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "ivandrueda.github.io"
+  title: "Ivan D. Rueda"
   navbar:
+    background: "#101820" 
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+    right:
+      - icon: github
+        href: https://github.com/ivandrueda
+        aria-label: GitHub
 format:
   html:
     theme: flatly
