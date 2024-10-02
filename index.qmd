@@ -1,7 +1,16 @@
 ---
-title: "Home"
+title: "Ivan D. Rueda"
+about:
+  template: trestles
+  image: profile_headshot.png
 ---
 
-This is a Quarto website.
+My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. Currently I live in Chicago, Illinois, with my corgi, Star. <br><br> Please visit [LinkedIn](https://www.linkedin.com/in/ivan-rueda-b720685a/) for more information about my professional experience or the Projects page to see work I've done.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Key Research Interests
+
+-   **Diagnostics**: TEXT
+
+-   **Computational Biology & Data Science**: TEXT
+
+-   **Precision Functionalized Biomaterials**: TEXT

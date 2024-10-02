@@ -9,11 +9,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: blog.qmd
+        text: Blog
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ivan-rueda-b720685a/
+        aria-label: LinkedIn
       - icon: github
         href: https://github.com/ivandrueda
         aria-label: GitHub
+
 format:
   html:
     theme: flatly
