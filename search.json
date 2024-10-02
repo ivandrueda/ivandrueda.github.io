@@ -9,9 +9,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Listing Example",
+    "title": "Projects",
     "section": "",
-    "text": "Sample Post\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\nNo matching items"
+    "text": "Sample Project\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/sample-post/sample-post.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "projects/sample-project/sample-project.html",
     "href": "projects/sample-project/sample-project.html",
-    "title": "Sample Post",
+    "title": "Sample Project",
     "section": "",
-    "text": "This is a sample post.\n\n\n\nCitationBibTeX citation:@misc{rueda2024,\n  author = {Ivan De Jesus Rueda},\n  title = {Sample {Post}},\n  date = {2024-10-02},\n  url = {http://ivandrueda.github.io/projects/sample-project/sample-project.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2024. “Sample Post.” http://ivandrueda.github.io/projects/sample-project/sample-project.html."
+    "text": "This is a sample Project.\n\n\n\nCitationBibTeX citation:@misc{rueda,\n  author = {Ivan De Jesus Rueda},\n  title = {Sample {Project}},\n  url = {http://ivandrueda.github.io/projects/sample-project/sample-project.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. n.d. “Sample Project.” http://ivandrueda.github.io/projects/sample-project/sample-project.html."
   },
   {
     "objectID": "index.html",
