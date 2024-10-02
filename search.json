@@ -4,21 +4,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Text about me"
+    "text": "My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. Currently I live in Chicago, Illinois, with my corgi, Star.  Please visit LinkedIn for more information about my professional experience or the Projects page to see work I’ve done."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
+    "objectID": "about.html#key-research-interests",
+    "href": "about.html#key-research-interests",
     "title": "About Me",
-    "section": "Education",
-    "text": "Education\nThe Johns Hopkins University | Baltimore, MD  MS/MBA in Biotechnology | Sept 2020 - May 2025\nCalifornia State University, Northridge| Northridge, CA  BS in Biology | Sept 2008 - May 2013"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About Me",
-    "section": "Experience",
-    "text": "Experience\nDetect | Staff Scientist | 2022 - 2024  BiologyWorks | Scientist | 2020 - 2022  EntroGen | Scientist | 2018 - 2020  Monolythix | Laboratory Manager | 2013 - 2018"
+    "section": "Key research interests",
+    "text": "Key research interests\n\nDiagnostics:\nComputational Biology & Data Science:\nPublic health:\nEconomics:"
   },
   {
     "objectID": "index.html",
