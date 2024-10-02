@@ -10,8 +10,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
       - href: blog.qmd
         text: Blog
+
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/ivan-rueda-b720685a/

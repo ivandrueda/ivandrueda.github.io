@@ -2,13 +2,13 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/sample-post.html"
+      "/posts/sample-post/sample-post.html"
     ]
   },
   {
-    "listing": "/posts/index.html",
+    "listing": "/projects.html",
     "items": [
-      "/posts/sample-post.html"
+      "/projects/sample-project/sample-project.html"
     ]
   }
 ]

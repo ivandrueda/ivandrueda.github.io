@@ -1,0 +1,21 @@
+author:
+  - id: cvc
+    number: 1
+    name:
+      given: Ivan
+      family: Rueda
+      literal: Ivan De Jesus Rueda
+      non-dropping-particle: De Jesus
+    email: ivandrueda@icloud.com
+format:
+  html:
+    df-print: paged
+    toc: true
+    lang: en-US
+    code-overflow: wrap
+    mermaid:
+      theme: neutral
+citation:
+  type: article
+reference-location: margin
+citation-location: margin
