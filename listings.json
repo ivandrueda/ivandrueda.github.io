@@ -4,5 +4,11 @@
     "items": [
       "/posts/sample-post/sample-post.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/sample-project/sample-project.html"
+    ]
   }
 ]
