@@ -3,14 +3,15 @@ title: "Ivan D. Rueda"
 about:
   template: trestles
   image: profile_headshot.png
+toc: false
 ---
 
-My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. Currently I live in Chicago, Illinois, with my girlfriend and our corgi.  <br><br> Please visit [LinkedIn](https://www.linkedin.com/in/ivan-rueda-b720685a/) for more information about my professional experience. For examples of my work, take a look at the [Projects](https://ivandrueda.github.io/projects.html) page.
+My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. I live in Chicago, Illinois, with my girlfriend and our corgi.  <br><br> Please visit [LinkedIn](https://www.linkedin.com/in/ivan-rueda-b720685a/) for more information about my professional experience. For examples of my work, take a look at the [Projects](https://ivandrueda.github.io/projects.html) page.
 
-## Key Research Interests
+## Research Interests
 
--   **Diagnostics**: TEXT
+-   **Diagnostics**: Non-invasive nucleic acid, immunochemical, and volatile organic compound biomarkers for infectious disease and precision diagnostics.
 
--   **Computational Biology & Data Science**: TEXT
+-   **Computational Biology & Data Science**: Computatutational dynamics of complex systems, nucleic acid folding and protein interaction modeling, and algorithmic pattern recognition.
 
--   **Precision Functionalized Biomaterials**: TEXT
+-   **Precision Functionalized Biomaterials**: Bio-degradable self-wicking polymers, multi-layer systems, and surface modifications for biosensing.
