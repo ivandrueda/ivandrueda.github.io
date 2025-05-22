@@ -8,17 +8,8 @@ toc: false
 
 I'm Ivan, a biotechnology professional and MS/MBA graduate student at [The Johns Hopkins University](https://www.jhu.edu/), where I also serve as a [Center for Innovative Leadership Fellow](https://cil.carey.jhu.edu/). By training I'm a molecular biologist, but over the past 10+ years I've worn many hats in the diagnostics industry as an assay developer, polymer chemist, data scientist, and technical product leader.
 
-My career journey has taken me from R&D bench work developing novel polymer chemistry for liquid biopsy analysis at Monolythix, to leading cross-functional teams through FDA regulatory pathways at companies like BiologyWorks and [Detect](https://www.detect.com). Along the way, I've helped develop molecular diagnostic platforms achieving [99.1% accuracy](https://www.businesswire.com/news/home/20220116005038/en/BiologyWorks-know-COVID-19-Clinical-Trial-Matches-99.1-Accuracy-to-RT-PCR-Tests), contributed to securing funding for COVID-19 testing solutions, and earned two [patents](https://patents.google.com/?inventor=Ivan+RUEDA) in diagnostic technologies. What drives me is finding the hidden connections that move ideas forward and translating complex user needs into product specifications while bridging technical capabilities with business requirements.
+My career journey has taken me from R&D bench work developing novel polymer chemistry for liquid biopsy analysis at Monolythix, to leading cross-functional teams through FDA regulatory pathways at companies like BiologyWorks and [Detect](https://www.detect.com). Along the way, I've helped develop molecular diagnostic platforms achieving [99.1% accuracy](https://www.businesswire.com/news/home/20220116005038/en/BiologyWorks-know-COVID-19-Clinical-Trial-Matches-99.1-Accuracy-to-RT-PCR-Tests), contributed to securing funding for COVID-19 testing solutions, and earned two [patents](https://patents.google.com/?inventor=Ivan+RUEDA) in diagnostic technologies. 
 
-I'm passionate about democratizing precision diagnostics and making complex testing more accessible and patient-centered. I currently live in Chicago with my girlfriend and our corgi, and I'm a sometime musician when I'm not diving into healthcare economics or product strategy.
+What drives me is advancing healthcare journeys for individuals by making complex diagnostics approachable and finding the hidden connections that translate breakthrough science into accessible, actionable solutions. Through my graduate studies, I'm exploring how healthcare economics, leadership, and regulatory affairs intersect to advance innovative healthcare technologies to market, which directly informs my vision for democratizing precision diagnostics.
 
-
- <br><br> Please visit [LinkedIn](https://www.linkedin.com/in/ivan-rueda-b720685a/) for more information about my professional experience. 
-
-### Research Interests
-
--   **Diagnostics**: Nucleic acid amplification tests, non-invasive nucleic acid tests, immunochemical, and volatile organic compound biomarkers for infectious disease and precision diagnostics.
-
--   **Computational Biology & Data Science**: Computatutational dynamics of complex systems, nucleic acid folding and protein interaction modeling, and algorithmic pattern recognition.
-
--   **Functionalized Biomaterials**: Bio-degradable self-wicking polymers, multi-layer systems, and surface modifications for biosensing.
+I currently live in Chicago with my girlfriend and our corgi. In my free time, I like to play my guitar or synthesizer.

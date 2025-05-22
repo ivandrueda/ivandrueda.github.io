@@ -1,0 +1,137 @@
+/*-- scss:defaults --*/
+
+// Custom Color Theme Defaults
+
+// General Page Colors
+$body-bg: #fff;
+$body-color: #494e52;
+$link-color: #7a8288;
+$link-hover-color: #5c6266; 
+$blockquote-border-color: #7a8288;
+
+// Code Blocks & Inline Code
+$code-bg: #fafafa;
+$code-color: #494e52;
+$code-border: 1px solid #f2f3f3;
+
+$code-block-bg: #fafafa;
+$code-block-border: 1px solid #f2f3f3;
+$code-block-font-size: .8125em;
+$code-block-line-height: 1.8;
+
+// Navbar Colors
+$navbar-bg: #fff;
+$navbar-color: #7a8288;
+$navbar-hover-color: #5c6266;
+$navbar-border-color: #f2f3f3;
+
+// Button Colors
+$btn-bg: #7a8288;
+$btn-color: #fff;
+$btn-hover-bg: #333;
+
+// Font Family
+$font-family-sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$font-family-monospace: Monaco, Consolas, "Lucida Console", monospace;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2em 0 0.5em;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+h1 { margin-top: 0; font-size: 1.563em; }
+h2 { font-size: 1.25em; }
+h3 { font-size: 1em; }
+
+.page__content a, #main a {
+  text-decoration: underline;
+}
+
+.navbar {
+  border-bottom: 1px solid $navbar-border-color !important;
+}
+
+.navbar .navbar-brand {
+  font-weight: 700;
+}
+
+blockquote {
+  margin: 2em 1em 2em 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-style: italic;
+  border-left: 0.25em solid $blockquote-border-color;
+}
+
+p > code, a > code, li > code, figcaption > code, td > code {
+  padding: 0.1rem 0.4rem;
+  font-size: .75em;
+  border: $code-border;
+  border-radius: 4px;
+}
+
+p > code:before, p > code:after,
+a > code:before, a > code:after,
+li > code:before, li > code:after,
+figcaption > code:before, figcaption > code:after,
+td > code:before, td > code:after {
+  content: "";
+  letter-spacing: normal;
+}
+
+div.sourceCode,
+pre.sourceCode {
+  background-color: $code-block-bg !important;
+  border: $code-block-border;
+  border-radius: 4px;
+  padding: 1em;
+  margin-bottom: 1em;
+  font-family: $font-family-monospace;
+  font-size: $code-block-font-size;
+  line-height: $code-block-line-height;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.125);
+  overflow-x: auto;
+}
+
+div.sourceCode pre,
+pre.sourceCode code {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+.btn {
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  font-family: $font-family-sans-serif;
+  font-size: .75em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border: 0 !important;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* --- End of Theme --- */ 

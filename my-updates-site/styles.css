@@ -1,1 +1,182 @@
 /* css styles */
+
+/*
+  Custom Color Theme
+  --------------------
+*/
+
+:root {
+  /* General Page Colors */
+  --page-background-color: #fff;
+  --text-color: #494e52;
+  --link-color: #7a8288;
+  --link-hover-color: #5c6266;
+  --blockquote-border-color: #7a8288;
+  --code-background-color: #fafafa;
+  --code-border-color: #f2f3f3;
+  --highlight-background-color: #fafafa; /* For code blocks */
+
+  /* Heading Colors (inherits from body text color) */
+  --h1-color: var(--text-color);
+  --h2-color: var(--text-color);
+  --h3-color: var(--text-color);
+
+  /* Navbar Colors */
+  --navbar-background-color: #fff;
+  --navbar-text-color: #7a8288;
+  --navbar-link-hover-color: #5c6266;
+  --navbar-border-color: #f2f3f3;
+
+  /* Button Colors */
+  --button-background-color: #7a8288;
+  --button-text-color: #fff;
+  --button-hover-background-color: #333;
+
+  /* Font Family */
+  --font-family-sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+  --font-family-monospace: Monaco, Consolas, "Lucida Console", monospace;
+}
+
+/* Apply the theme */
+body {
+  background-color: var(--page-background-color);
+  color: var(--text-color);
+  font-family: var(--font-family-sans-serif);
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-hover-color);
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2em 0 0.5em;
+  line-height: 1.2;
+  font-family: var(--font-family-sans-serif);
+  font-weight: bold;
+  color: var(--text-color);
+}
+
+h1 { margin-top: 0; font-size: 1.563em; }
+h2 { font-size: 1.25em; }
+h3 { font-size: 1em; }
+
+/* Content specific link styling */
+.page__content a, #main a { /* Assuming your main content is in #main or similar */
+  text-decoration: underline;
+}
+.page__content a:hover, #main a:hover {
+  /* Hover color is already set globally */
+}
+
+/* Navbar Styling */
+.navbar {
+  background-color: var(--navbar-background-color) !important;
+  border-bottom: 1px solid var(--navbar-border-color) !important;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand,
+.navbar .navbar-nav .nav-link.active {
+  color: var(--navbar-text-color) !important;
+  font-weight: normal;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-item:first-child .nav-link {
+  font-weight: 700;
+}
+
+.navbar .nav-link:hover {
+  color: var(--navbar-link-hover-color) !important;
+}
+
+/* Blockquotes */
+blockquote {
+  margin: 2em 1em 2em 0;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-style: italic;
+  border-left: 0.25em solid var(--blockquote-border-color);
+  color: inherit;
+}
+
+/* Code Blocks */
+/* Inline code */
+p > code, a > code, li > code, figcaption > code, td > code {
+  padding: 0.1rem 0.4rem;
+  font-size: .75em;
+  background: var(--code-background-color);
+  border: 1px solid var(--code-border-color);
+  border-radius: 4px;
+  font-family: var(--font-family-monospace);
+}
+
+p > code:before, p > code:after,
+a > code:before, a > code:after,
+li > code:before, li > code:after,
+figcaption > code:before, figcaption > code:after,
+td > code:before, td > code:after {
+  content: "";
+  letter-spacing: normal;
+}
+
+/* Highlighted code blocks (e.g., ``` code ```) */
+div.sourceCode,
+pre.sourceCode {
+  background-color: var(--highlight-background-color) !important;
+  border: 1px solid var(--code-border-color);
+  border-radius: 4px;
+  padding: 1em;
+  margin-bottom: 1em;
+  font-family: var(--font-family-monospace);
+  font-size: .8125em;
+  line-height: 1.8;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.125); /* Optional */
+  overflow-x: auto;
+}
+
+div.sourceCode pre,
+pre.sourceCode code {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  white-space: pre-wrap;
+  word-break: break-all;
+}
+
+/* Basic Button Styling */
+.btn {
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  color: var(--button-text-color) !important;
+  font-family: var(--font-family-sans-serif);
+  font-size: .75em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  background-color: var(--button-background-color);
+  border: 0 !important;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: var(--button-hover-background-color);
+  color: var(--button-text-color) !important;
+}
+
+/* --- End of Theme --- */

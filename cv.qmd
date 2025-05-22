@@ -1,0 +1,29 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## Employment & Professional Roles
+
+* Staff Scientist (Point of Care Diagnostics), Detect, 2022 - 2024
+* Scientist (At-Home & Point of Care Diagnostics), BiologyWorks, 2020 - 2022
+* Research Scientist (Companion Diagnostics), EntroGen, 2018 - 2020
+* Laboratory Manager (Polymer Chemistry for Sample Preparation), Monolythix, 2013 - 2018
+
+## Education
+
+* MS/MBA in Biotechnology, The Johns Hopkins University, 2020 - 2025
+    * Specializations: Healthcare Management, Innovation, Technology, and Regulatory Affairs 
+* BS in Biology, California State University of Northridge, 2008 - 2013
+    * Specialization: Biotechnology
+
+## Honors & Awards
+
+* Center for Innovative Leadership Fellow, The Johns Hopkins University, 2024 - 2025
+* NIH MARC U-STAR Scholar, California State University of Northridge, 2011 - 2013
+* Project GRAD Scholar, California State University of Northridge, 2008 - 2013
+
+## Patents
+
+* US20170342466A1: Processing blood samples to detect target nucleic acids
+* US20170051274A1: Sample concentration devices

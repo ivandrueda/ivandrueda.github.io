@@ -6,16 +6,15 @@ website:
   title: "Ivan D. Rueda"
   site-url: "http://ivandrueda.github.io"
   navbar:
-    background: "#101820" 
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
-      - href: blog.qmd
-        text: Blog
-      # - href: consulting.qmd
-      #   text: Consulting
+      - href: cv.qmd
+        text: CV
+      # - href: projects.qmd
+      #   text: Projects
+      # - href: blog.qmd
+      #   text: Blog
 
     right:
       - icon: linkedin
@@ -27,6 +26,8 @@ website:
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme:
+      - cosmo
+      - styles.scss
+    # css: styles.css
     toc: true
