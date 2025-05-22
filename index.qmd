@@ -6,12 +6,19 @@ about:
 toc: false
 ---
 
-My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. I live in Chicago, Illinois, with my girlfriend and our corgi.  <br><br> Please visit [LinkedIn](https://www.linkedin.com/in/ivan-rueda-b720685a/) for more information about my professional experience. For examples of my work, take a look at the [Projects](https://ivandrueda.github.io/projects.html) page.
+I'm Ivan, a biotechnology professional and MS/MBA graduate student at [The Johns Hopkins University](https://www.jhu.edu/), where I also serve as a [Center for Innovative Leadership Fellow](https://cil.carey.jhu.edu/). By training I'm a molecular biologist, but over the past 10+ years I've worn many hats in the diagnostics industry as an assay developer, polymer chemist, data scientist, and technical product leader.
 
-## Research Interests
+My career journey has taken me from R&D bench work developing novel polymer chemistry for liquid biopsy analysis at Monolythix, to leading cross-functional teams through FDA regulatory pathways at companies like BiologyWorks and [Detect](https://www.detect.com). Along the way, I've helped develop molecular diagnostic platforms achieving [99.1% accuracy](https://www.businesswire.com/news/home/20220116005038/en/BiologyWorks-know-COVID-19-Clinical-Trial-Matches-99.1-Accuracy-to-RT-PCR-Tests), contributed to securing funding for COVID-19 testing solutions, and earned two [patents](https://patents.google.com/?inventor=Ivan+RUEDA) in diagnostic technologies. What drives me is finding the hidden connections that move ideas forward—translating complex user needs into product specifications and bridging technical capabilities with business requirements.
 
--   **Diagnostics**: Non-invasive nucleic acid, immunochemical, and volatile organic compound biomarkers for infectious disease and precision diagnostics.
+I'm passionate about democratizing precision diagnostics and making complex testing more accessible and patient-centered. I currently live in Chicago with my girlfriend and our corgi, and I'm a sometime musician when I'm not diving into healthcare economics or product strategy.
+
+
+ <br><br> Please visit [LinkedIn](https://www.linkedin.com/in/ivan-rueda-b720685a/) for more information about my professional experience. 
+
+### Research Interests
+
+-   **Diagnostics**: Nucleic acid amplification tests, non-invasive nucleic acid tests, immunochemical, and volatile organic compound biomarkers for infectious disease and precision diagnostics.
 
 -   **Computational Biology & Data Science**: Computatutational dynamics of complex systems, nucleic acid folding and protein interaction modeling, and algorithmic pattern recognition.
 
--   **Precision Functionalized Biomaterials**: Bio-degradable self-wicking polymers, multi-layer systems, and surface modifications for biosensing.
+-   **Functionalized Biomaterials**: Bio-degradable self-wicking polymers, multi-layer systems, and surface modifications for biosensing.

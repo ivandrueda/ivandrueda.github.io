@@ -1,0 +1,102 @@
+---
+title: "Consulting"
+format: html
+---
+
+{{< fa envelope >}} ivandrueda@icloud.com
+
+I provide three main types of consulting services: diagnostics technical consulting, business strategy, and data visualization.
+
+If you're interested in learning more about how I can assist with your projects or if you have questions or require advice, please don't hesitate to reach out. I offer a free 20-minute consultation to discuss your specific needs and determine how I can best support you. 
+
+To schedule this consultation, feel free to contact me at ivandrueda@icloud.com. I am happy to support you every step of the way.
+
+## Diagnostics Technical Services
+
+Drawing my product development experience from over 10 years in diagnostics, I offer a wide array of technical services designed to cater to a broad spectrum of needs. Whether you're an academic or in the industry, here's a detailed list of the services I provide:
+
+-   Meta-analysis
+-   In-vitro diagnostics (qPCR, qLAMP, CRISPR, and NGS) design 
+-   Regulatory strategy and compliance (US FDA, IVDR, and ISO13485)
+-   Polymer chemistry (porous monoliths, precision functionalization, and molecular capture systems)
+-   Design of experiments formulation and analysis
+-   Probabilistic system risk assessment modeling
+-   Python programming
+-   Computationally reproducible and self-contained manuscripts
+
+I've structured my pricing to accommodate different client types, ensuring a transparent and cost-effective approach. The current hourly rates are as follows:
+
+| Client Type             |   Rate   |
+|:------------------------|:--------:|
+| Non-Academic (Industry) | \$200/hr |
+| Academic                | \$100/hr |
+| Student                 | \$50/hr  |
+
+: {.hover}
+
+Projects with a substantial scope (i.e., more than 20 hours worth of consulting work) can be structured so that their pricing will be done on a per-project rather than a per-hour basis.
+
+## Business Strategy Services
+
+I offer a wide array of services designed to cater to a broad spectrum of statistical needs, whether you're an academic or part of the industry. Here's a detailed list of the services I provide:
+
+-   Market research and analysis
+-   Competitive intelligence
+-   Financial modeling and forecasting
+-   Product development lifecycle management
+-   Risk assessment and management
+-   Reimbursement strategy and health economics
+-   Performance metrics development and tracking
+-   Intellectual property strategy and management
+-   Healthcare IT integration
+
+I've structured my pricing to accommodate different client types, ensuring a transparent and cost-effective approach. The current hourly rates are as follows:
+
+| Client Type             |   Rate   |
+|:------------------------|:--------:|
+| Non-Academic (Industry) | \$200/hr |
+| Academic                | \$100/hr |
+| Student                 | \$50/hr  |
+
+: {.hover}
+
+## Data Visualization Services
+
+I can help you prepare high-quality data visualizations for academic publications, websites, slideshows, etc. There are two types of data visualizations that I provide: stand-alone diagrams and computationally reproducible figures.
+
+To ensure that your specific needs are met, you can either send me a detailed description of the desired diagram via email with the following information:
+
+1.  What kind of figure do you need?
+2.  When do you realistically need to have it ready by?
+3.  Do you have all the information needed to produce the figure?
+4.  Could you provide an example of a figure you are trying to emulate?
+
+Then we can set up a free 20-minute virtual meeting to discuss the details further.
+
+### Diagrams
+
+Stand-alone diagrams are used as visual representations of a scientific concept. Each diagram I produce will be made available as a high-resolution PNG, JPEG, and SVG file. For your convenience I included an example of my work below .
+
+| Client Type             |     Rate      |
+|:------------------------|:-------------:|
+| Non-Academic (Industry) | \$200/diagram |
+| Academic                | \$100/diagram |
+| Student                 | \$50/diagram  |
+
+: {.hover}
+
+#![](MetaAnalysisFigure%202.png){style="fig-height:80%"} 
+
+<hr>
+
+### Computationally Reproducible Figure Panels
+
+I can also help you generate figure panels that contain real or simulated data. For each panel, my service ensures that you will receive the final visual representation (as a high-resolution PNG or JPG), but also an Quarto Notebook containing the code for reproducing the figure. For your convenience, I've included examples of my work, showcasing both a two-panel figure (top) and a single-panel figure (bottom).
+
+| Client Type             |    Rate     |
+|:------------------------|:-----------:|
+| Non-Academic (Industry) | \$200/panel |
+| Academic                | \$100/panel |
+| Student                 | \$50/panel |
+
+: {.hover}
