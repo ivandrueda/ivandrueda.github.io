@@ -7,6 +7,13 @@
     "text": "Sample Post\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2024\n\n\nIvan De Jesus Rueda\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "my-updates-site/index.html",
+    "href": "my-updates-site/index.html",
+    "title": "My-updates-site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -19,6 +26,34 @@
     "title": "Building a molecular test for an emerging disease in a global pandemic",
     "section": "",
     "text": "Six months before the COVID-19 pandemic took the world by storm, I had the great fortune of a trio of entrepreneurs taking an interest in some unique diagnostic patents I had generated earlier in my career while at Monolythix. We had a shared vision to make diagnostics accessible to everyone and everywhere then built up a company, BiologyWorks, together with some of his friends. Suddenly, I found myself helping to get a business plan together, conducting market analysis, and convince others that we are worth their investment. We were successful in gaining funding and suddenly the pandemic took off but that was only the beginning. A whole journey ensued after in bringing up a laboratory, forming a team, developing a product, and then taking it to market.\n\n\n\nCitationBibTeX citation:@misc{rueda2022,\n  author = {Ivan De Jesus Rueda},\n  title = {Building a Molecular Test for an Emerging Disease in a Global\n    Pandemic},\n  date = {2022-01-18},\n  url = {http://ivandrueda.github.io/projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2022. “Building a Molecular Test for an\nEmerging Disease in a Global Pandemic.” http://ivandrueda.github.io/projects/k(now)\nCOVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html."
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "{{&lt; fa envelope &gt;}} ivandrueda@icloud.com\nI provide three main types of consulting services: diagnostics technical consulting, business strategy, and data visualization.\nIf you’re interested in learning more about how I can assist with your projects or if you have questions or require advice, please don’t hesitate to reach out. I offer a free 20-minute consultation to discuss your specific needs and determine how I can best support you.\nTo schedule this consultation, feel free to contact me at ivandrueda@icloud.com. I am happy to support you every step of the way."
+  },
+  {
+    "objectID": "consulting.html#diagnostics-technical-services",
+    "href": "consulting.html#diagnostics-technical-services",
+    "title": "Consulting",
+    "section": "Diagnostics Technical Services",
+    "text": "Diagnostics Technical Services\nDrawing my product development experience from over 10 years in diagnostics, I offer a wide array of technical services designed to cater to a broad spectrum of needs. Whether you’re an academic or in the industry, here’s a detailed list of the services I provide:\n\nMeta-analysis\nIn-vitro diagnostics (qPCR, qLAMP, CRISPR, and NGS) design\nRegulatory strategy and compliance (US FDA, IVDR, and ISO13485)\nPolymer chemistry (porous monoliths, precision functionalization, and molecular capture systems)\nDesign of experiments formulation and analysis\nProbabilistic system risk assessment modeling\nPython programming\nComputationally reproducible and self-contained manuscripts\n\nI’ve structured my pricing to accommodate different client types, ensuring a transparent and cost-effective approach. The current hourly rates are as follows:\n\n\n\nClient Type\nRate\n\n\n\n\nNon-Academic (Industry)\n$200/hr\n\n\nAcademic\n$100/hr\n\n\nStudent\n$50/hr\n\n\n\nProjects with a substantial scope (i.e., more than 20 hours worth of consulting work) can be structured so that their pricing will be done on a per-project rather than a per-hour basis."
+  },
+  {
+    "objectID": "consulting.html#business-strategy-services",
+    "href": "consulting.html#business-strategy-services",
+    "title": "Consulting",
+    "section": "Business Strategy Services",
+    "text": "Business Strategy Services\nI offer a wide array of services designed to cater to a broad spectrum of statistical needs, whether you’re an academic or part of the industry. Here’s a detailed list of the services I provide:\n\nMarket research and analysis\nCompetitive intelligence\nFinancial modeling and forecasting\nProduct development lifecycle management\nRisk assessment and management\nReimbursement strategy and health economics\nPerformance metrics development and tracking\nIntellectual property strategy and management\nHealthcare IT integration\n\nI’ve structured my pricing to accommodate different client types, ensuring a transparent and cost-effective approach. The current hourly rates are as follows:\n\n\n\nClient Type\nRate\n\n\n\n\nNon-Academic (Industry)\n$200/hr\n\n\nAcademic\n$100/hr\n\n\nStudent\n$50/hr"
+  },
+  {
+    "objectID": "consulting.html#data-visualization-services",
+    "href": "consulting.html#data-visualization-services",
+    "title": "Consulting",
+    "section": "Data Visualization Services",
+    "text": "Data Visualization Services\nI can help you prepare high-quality data visualizations for academic publications, websites, slideshows, etc. There are two types of data visualizations that I provide: stand-alone diagrams and computationally reproducible figures.\nTo ensure that your specific needs are met, you can either send me a detailed description of the desired diagram via email with the following information:\n\nWhat kind of figure do you need?\nWhen do you realistically need to have it ready by?\nDo you have all the information needed to produce the figure?\nCould you provide an example of a figure you are trying to emulate?\n\nThen we can set up a free 20-minute virtual meeting to discuss the details further.\n\nDiagrams\nStand-alone diagrams are used as visual representations of a scientific concept. Each diagram I produce will be made available as a high-resolution PNG, JPEG, and SVG file. For your convenience I included an example of my work below .\n\n\n\nClient Type\nRate\n\n\n\n\nNon-Academic (Industry)\n$200/diagram\n\n\nAcademic\n$100/diagram\n\n\nStudent\n$50/diagram\n\n\n\n#\n\n\n\nComputationally Reproducible Figure Panels\nI can also help you generate figure panels that contain real or simulated data. For each panel, my service ensures that you will receive the final visual representation (as a high-resolution PNG or JPG), but also an Quarto Notebook containing the code for reproducing the figure. For your convenience, I’ve included examples of my work, showcasing both a two-panel figure (top) and a single-panel figure (bottom).\n\n\n\nClient Type\nRate\n\n\n\n\nNon-Academic (Industry)\n$200/panel\n\n\nAcademic\n$100/panel\n\n\nStudent\n$50/panel"
   },
   {
     "objectID": "posts/sample-post/sample-post.html",
@@ -39,6 +74,13 @@
     "href": "index.html",
     "title": "Ivan D. Rueda",
     "section": "",
-    "text": "My name is Ivan and I am a biotechnology professional, MS/MBA in Biotechnology graduate student at The Johns Hopkins University, and sometime musician. By training I am a molecular biologist; professionally, I’ve worked as an assay developer, data scientist, and polymer chemist. I currently live in Chicago, Illinois with my girlfriend and our corgi.  Please visit LinkedIn for more information about my professional experience. For examples of my work, take a look at the Projects page.\n\nResearch Interests\n\nDiagnostics: Non-invasive nucleic acid, immunochemical, and volatile organic compound biomarkers for infectious disease and precision diagnostics.\nComputational Biology & Data Science: Computatutational dynamics of complex systems, nucleic acid folding and protein interaction modeling, and algorithmic pattern recognition.\nPrecision Functionalized Biomaterials: Bio-degradable self-wicking polymers, multi-layer systems, and surface modifications for biosensing."
+    "text": "I’m Ivan, a biotechnology professional and MS/MBA graduate student at The Johns Hopkins University, where I also serve as a Center for Innovative Leadership Fellow. By training I’m a molecular biologist, but over the past 10+ years I’ve worn many hats in the diagnostics industry as an assay developer, polymer chemist, data scientist, and technical product leader.\nMy career journey has taken me from R&D bench work developing novel polymer chemistry for liquid biopsy analysis at Monolythix, to leading cross-functional teams through FDA regulatory pathways at companies like BiologyWorks and Detect. Along the way, I’ve helped develop molecular diagnostic platforms achieving 99.1% accuracy, contributed to securing funding for COVID-19 testing solutions, and earned two patents in diagnostic technologies. What drives me is finding the hidden connections that move ideas forward and translating complex user needs into product specifications while bridging technical capabilities with business requirements.\nI’m passionate about democratizing precision diagnostics and making complex testing more accessible and patient-centered. I currently live in Chicago with my girlfriend and our corgi, and I’m a sometime musician when I’m not diving into healthcare economics or product strategy.\n Please visit LinkedIn for more information about my professional experience.\n\nResearch Interests\n\nDiagnostics: Nucleic acid amplification tests, non-invasive nucleic acid tests, immunochemical, and volatile organic compound biomarkers for infectious disease and precision diagnostics.\nComputational Biology & Data Science: Computatutational dynamics of complex systems, nucleic acid folding and protein interaction modeling, and algorithmic pattern recognition.\nFunctionalized Biomaterials: Bio-degradable self-wicking polymers, multi-layer systems, and surface modifications for biosensing."
+  },
+  {
+    "objectID": "my-updates-site/about.html",
+    "href": "my-updates-site/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
