@@ -5,4 +5,4 @@ listing:
   type: grid
 ---
 
-Contents here are still under work :)
+Products I've worked with
