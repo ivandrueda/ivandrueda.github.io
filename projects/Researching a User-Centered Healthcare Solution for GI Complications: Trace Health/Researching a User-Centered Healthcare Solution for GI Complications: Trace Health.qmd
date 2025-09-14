@@ -34,7 +34,7 @@ This personal experience connected to a much larger problem: 70 million American
 
 **What I learned:** This project taught me how to translate complex healthcare problems into structured product opportunities where the technology was new to me while maintaining deep empathy for patient experiences.
 
-**Why I stepped away:** This research revealed both the magnitude of the healthcare challenge and the complexity of building solutions in this space. After completing the strategy work, I made the strategic decision to focus on gaining product management experience at established companies driving software solutions in patient care delivery more closely. I recognized that successfully executing a vision of this scope would require deeper industry expertise in healthcare technology, regulatory pathways, and scaling digital health products - skills I'm now building through my career progression.
+**Why I stepped away:** This research revealed both the magnitude of the healthcare challenge and the complexity of building solutions in this space. After completing the strategy work, I made the decision to focus on gaining product management experience at established companies driving software solutions in patient care delivery more closely. I recognized that successfully executing a vision of this scope would require deeper industry expertise in healthcare technology, regulatory pathways, and scaling digital health products - skills I'm now building through my career progression.
 
 ![*User research mapping patient questions across six critical stages of the diagnostic journey (from initial symptom recognition through treatment decisions) revealing the underlying concerns that informed our platform design and feature prioritization.*](th_mental_model.png)
 
