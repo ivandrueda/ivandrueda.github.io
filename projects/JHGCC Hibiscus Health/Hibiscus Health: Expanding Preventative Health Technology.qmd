@@ -8,19 +8,20 @@ citation: false
 
 # It All Started When When...
 
-The Johns Hopkins Graduate Consulting Club 2024 case competition presented a real-world challenge: develop a go-to-market strategy for Hibiscus Health's breakthrough facial scanning technology. While the startup had successfully created AI-powered technology to detect early signs of metabolic conditions like pre-diabetes and hypertension through non-invasive blood flow analysis, they faced critical strategic challenges: unclear market positioning in a crowded digital health landscape, the need for a sustainable business model demonstrating clear value to multiple stakeholders, and uncertainty about how to expand their single-application technology into a broader platform. The challenge required identifying new clinical applications while addressing regulatory complexities and building sustainable competitive advantages.
+Preventing chronic disease requires early intervention, but traditional screening methods create barriers through cost, invasiveness, and accessibility limitations. Hibiscus Health had developed breakthrough AI-powered facial scanning technology that detects metabolic conditions like pre-diabetes through smartphone cameras, but faced a critical limitation: reduced accuracy for individuals with very dark or very fair skin tones due to training data biases. The Johns Hopkins Graduate Consulting Club 2024 case competition challenged teams to solve this accessibility problem while building sustainable competitive advantages in the crowded digital health market.
+
+My and I team identified a novel solution: expanding beyond facial scanning to oral cavity analysis, leveraging the scientific connection between periodontal disease and metabolic conditions. This approach circumvented skin tone limitations while creating a first-to-market opportunity in smile-based health screening. The challenge required not just technical innovation, but designing a complete go-to-market strategy that demonstrated clear value to patients, providers, and payers in a complex healthcare ecosystem.
 
 # My Role
 
 -   Conducted competitive analysis across facial scanning platforms, identifying key market differentiators and positioning Hibiscus Health's expansion into oral health biomarker detection as a first-to-market opportunity.
 
--   Setup dual-pathway technology enhancement leveraging PPG signal analysis and CNN imaging to create "smile scanning" capability, establishing the scientific linkage between periodontal disease and metabolic conditions.
+-   Designed dual-pathway technology combining PPG signal analysis with computer vision to create "smile scanning" capability, establishing scientific linkage between periodontal disease and metabolic conditions
 
--   Designed subscription-based "Smile & Subscribe" model with tiered pricing and partnership revenue streams, integrating with established platforms like Omada, Vida, and Cigna for comprehensive care coordination.
+-   Created "Smile & Subscribe" ecosystem with tiered subscription pricing and partnership revenue streams, integrating with established platforms (Omada, Vida, Cigna) for comprehensive care coordination
 
--   Developed tiered pricing structure with clear value propositions for each segment, projecting sustainable unit economics and 5-year financial projections
+-   Developed 5-year financial model with sustainable unit economics and 5% revenue capture, determining $1.65 million funding requirement
 
--   Created ecosystem strategy connecting patients to established platforms (Omada, Vida, Cigna) for care coordination and outcome optimization
 
 # Results
 
@@ -28,13 +29,9 @@ The Johns Hopkins Graduate Consulting Club 2024 case competition presented a rea
 
 -   First-place victory at Johns Hopkins Graduate Consulting Club 2024 Annual Case Competition
 
--   \$1.2 billion projected cumulative healthcare savings over 5 years through preventative screening interventions
-
--   Projected 90% reduction in preventable periodontal cases targeting 32.8 million prediabetic adults aged 18-44
+-   $1.2 billion cumulative savings over 5 years through preventative screening interventions, with 90% reduction in preventable periodontal cases among 32.8 million prediabetic adults aged 18-44
 
 -   Competitive differentiation through first-to-market oral health integration in facial scanning technology, creating sustainable IP-protected market position
-
--   \$1.65 million funding requirement identified with sustainable 5% revenue capture model from healthcare savings
 
 ![*Hibiscus Health's smartphone-based facial scanning technology detects cardiovascular disease risk (45.03% shown) by analyzing blood flow patterns in the eyes and oral cavity. The AI-powered system measures 5+ biomarkers in 30 seconds without blood tests, demonstrating the core technology our strategy expanded into smile-based periodontal screening.*](hh_concept.png)
 
