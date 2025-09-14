@@ -6,7 +6,7 @@ image: hh_scan.png
 citation: false
 ---
 
-# It All Started When When...
+# It All Started When...
 
 Preventing chronic disease requires early intervention, but traditional screening methods create barriers through cost, invasiveness, and accessibility limitations. Hibiscus Health had developed breakthrough AI-powered facial scanning technology that detects metabolic conditions like pre-diabetes through smartphone cameras, but faced a critical limitation: reduced accuracy for individuals with very dark or very fair skin tones due to training data biases. The Johns Hopkins Graduate Consulting Club 2024 case competition challenged teams to solve this accessibility problem while building sustainable competitive advantages in the crowded digital health market.
 
