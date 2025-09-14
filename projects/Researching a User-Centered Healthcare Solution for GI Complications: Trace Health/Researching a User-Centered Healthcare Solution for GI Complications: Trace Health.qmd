@@ -1,6 +1,6 @@
 ---
 title: 'Researching a User-Centered Digital Health Solution for GI Complications: Trace Health'
-image: th_logo.png
+image: th_pile.png
 # date: '2025-08-18'
 # date-format: long
 citation: false
