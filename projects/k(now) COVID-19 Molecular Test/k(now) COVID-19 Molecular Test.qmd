@@ -34,7 +34,7 @@ Six months before the COVID-19 pandemic took the world by storm, I had the great
 
 ![*User questions mapped across the experience journey reveal core concerns that inform design principles from initial setup anxieties to long-term trust and ethical considerations*](bw_user_mental_model.png)
 
-![*Complete diagnostic user journey showing customer touchpoints and corresponding internal operations from purchase decision through clinical care integration.*](bw_user_journey.png)
+![*High-level diagnostic user journey showing customer touchpoints and corresponding internal operations from purchase decision through clinical care integration.*](bw_user_journey.png)
 
 ![](bw_know_device_com.png)
 
