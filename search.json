@@ -14,11 +14,46 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ivan D. Rueda",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "I’m a scientist and healthcare innovation strategist specializing in translating complex diagnostic technologies into market-ready solutions that clinicians and patients embrace. I have an MSc/MBA from The Johns Hopkins University and BSc from California State University, Northridge. While completing my graduate studies, I spent 2024-2025 as a Center for Innovative Leadership Fellow focusing on adaptive leadership in healthcare innovation.\nOver 10+ years in biotechnology, I’ve led cross-functional teams in product development through FDA and EU regulatory pathways at companies like BiologyWorks and Detect. I’ve launched molecular diagnostic platforms achieving 99.1% accuracy, secured $11M+ in funding for COVID-19 testing solutions, and earned two patents in diagnostic technologies.\nMy career started as a research scientist developing novel polymer chemistry and sample preparation biochemistry for liquid biopsy analysis. Over time, I transitioned into roles that bridge breakthrough science with real-world healthcare applications in home and point-of-care use cases. My work spans surface chemistry, assay development, data science, and technical product leadership across the diagnostics industry.\nI’m passionate about democratizing precision diagnostics by creating products that integrate seamlessly into clinical workflows and empower collaborative decision-making for patients and providers. My graduate work in healthcare economics, AI applications, and regulatory affairs directly informs my approach to finding the hidden connections between novel science and commercially viable solutions.\nI live in Chicago with my girlfriend and our corgi. In my free time, I play guitar and synthesizers."
+    "text": "Staff Scientist (Point of Care Diagnostics), Detect, 2022 - 2024\nScientist (At-Home & Point of Care Diagnostics), BiologyWorks, 2020 - 2022\nResearch Scientist (Companion Diagnostics), EntroGen, 2018 - 2020\nLaboratory Manager (Polymer Chemistry for Sample Preparation), Monolythix, 2013 - 2018"
+  },
+  {
+    "objectID": "cv.html#employment-professional-roles",
+    "href": "cv.html#employment-professional-roles",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Staff Scientist (Point of Care Diagnostics), Detect, 2022 - 2024\nScientist (At-Home & Point of Care Diagnostics), BiologyWorks, 2020 - 2022\nResearch Scientist (Companion Diagnostics), EntroGen, 2018 - 2020\nLaboratory Manager (Polymer Chemistry for Sample Preparation), Monolythix, 2013 - 2018"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nMBA, The Johns Hopkins University, 2020 - 2025\n\nSpecialization: Healthcare Management, Innovation, and Technology\n\nMS in Biotechnology, The Johns Hopkins University, 2020 - 2025\n\nSpecialization: Regulatory Affairs\n\nBS in Biology, California State University of Northridge, 2008 - 2013\n\nSpecialization: Biotechnology"
+  },
+  {
+    "objectID": "cv.html#honors-awards",
+    "href": "cv.html#honors-awards",
+    "title": "Curriculum Vitae",
+    "section": "Honors & Awards",
+    "text": "Honors & Awards\n\nCenter for Innovative Leadership Fellow, The Johns Hopkins University, 2024 - 2025\nNIH MARC U-STAR Scholar, California State University of Northridge, 2011 - 2013\nProject GRAD Scholar, California State University of Northridge, 2008 - 2013"
+  },
+  {
+    "objectID": "cv.html#professional-development",
+    "href": "cv.html#professional-development",
+    "title": "Curriculum Vitae",
+    "section": "Professional Development",
+    "text": "Professional Development\n\nProduct Strategy Micro-Certification (PSC) from Product School, 2025\nLean Six Sigma Green Belt (LSSGB) from Six Sigma Global Institute, 2025\nData Scientist: Machine Learning from Codecademy, 2024\nProfessional Scrum Product Owner (PSM) from Scrum.org, 2023\nGood Clinical Practice (GCP) from National Institute of Allergy and Infectious Diseases, 2021\nStrategic Innovation Programme from The University of Oxford, 2020\nProfessional Scrum Master (PSM) from Scrum.org, 2020"
+  },
+  {
+    "objectID": "cv.html#patents",
+    "href": "cv.html#patents",
+    "title": "Curriculum Vitae",
+    "section": "Patents",
+    "text": "Patents\n\nUS20170342466A1: Processing blood samples to detect target nucleic acids\nUS20170051274A1: Sample concentration devices"
   },
   {
     "objectID": "projects/Novel polymers for biomarker detection from blood/Novel polymers for biomarker testing from blood.html",
@@ -42,46 +77,18 @@
     "text": "Six months before the COVID-19 pandemic took the world by storm, I had the great fortune of a trio of entrepreneurs taking an interest in some unique diagnostic patents I had generated earlier in my career while at Monolythix. We had a shared vision to make diagnostics accessible to everyone and everywhere then built up a company, BiologyWorks, together with some of his friends. Suddenly, I found myself helping to get a business plan together, conducting market analysis, and convince others that we are worth their investment. We were successful in gaining funding and suddenly the pandemic took off but that was only the beginning. A whole journey ensued after in bringing up a laboratory, forming a team, developing a product, and then taking it to market.\n\n\n\nCitationBibTeX citation:@misc{rueda2022,\n  author = {Ivan De Jesus Rueda},\n  title = {Building a Molecular Test for an Emerging Disease in a Global\n    Pandemic},\n  date = {2022-01-18},\n  url = {http://ivandrueda.github.io/projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html},\n  langid = {en-US}\n}\nFor attribution, please cite this work as:\nIvan De Jesus Rueda. 2022. “Building a Molecular Test for an\nEmerging Disease in a Global Pandemic.” http://ivandrueda.github.io/projects/k(now)\nCOVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ivan D. Rueda",
+    "section": "",
+    "text": "I’m a scientist and healthcare innovation strategist specializing in translating complex diagnostic technologies into market-ready solutions that clinicians and patients embrace. I have an MSc/MBA from The Johns Hopkins University and BSc from California State University, Northridge. While completing my graduate studies, I spent 2024-2025 as a Center for Innovative Leadership Fellow focusing on adaptive leadership in healthcare innovation.\nOver 10+ years in biotechnology, I’ve led cross-functional teams in product development through FDA and EU regulatory pathways at companies like BiologyWorks and Detect. I’ve launched molecular diagnostic platforms achieving 99.1% accuracy, secured $11M+ in funding for COVID-19 testing solutions, and earned two patents in diagnostic technologies.\nMy career started as a research scientist developing novel polymer chemistry and sample preparation biochemistry for liquid biopsy analysis. Over time, I transitioned into roles that bridge breakthrough science with real-world healthcare applications in home and point-of-care use cases. My work spans surface chemistry, assay development, data science, and technical product leadership across the diagnostics industry.\nI’m passionate about democratizing precision diagnostics by creating products that integrate seamlessly into clinical workflows and empower collaborative decision-making for patients and providers. My graduate work in healthcare economics, AI applications, and regulatory affairs directly informs my approach to finding the hidden connections between novel science and commercially viable solutions.\nI live in Chicago with my girlfriend and our corgi. In my free time, I play guitar and synthesizers."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
     "section": "",
     "text": "Contents here are still under work :)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBuilding a molecular test for an emerging disease in a global pandemic\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\nJan 18, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNovel polymers for biomarker testing from blood\n\n\n\n\n\n\nIvan De Jesus Rueda\n\n\nJul 28, 2017\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Staff Scientist (Point of Care Diagnostics), Detect, 2022 - 2024\nScientist (At-Home & Point of Care Diagnostics), BiologyWorks, 2020 - 2022\nResearch Scientist (Companion Diagnostics), EntroGen, 2018 - 2020\nLaboratory Manager (Polymer Chemistry for Sample Preparation), Monolythix, 2013 - 2018"
-  },
-  {
-    "objectID": "cv.html#employment-professional-roles",
-    "href": "cv.html#employment-professional-roles",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Staff Scientist (Point of Care Diagnostics), Detect, 2022 - 2024\nScientist (At-Home & Point of Care Diagnostics), BiologyWorks, 2020 - 2022\nResearch Scientist (Companion Diagnostics), EntroGen, 2018 - 2020\nLaboratory Manager (Polymer Chemistry for Sample Preparation), Monolythix, 2013 - 2018"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nMS/MBA in Biotechnology, The Johns Hopkins University, 2020 - 2025\n\nSpecializations: Healthcare Management, Innovation, Technology, and Regulatory Affairs\n\nBS in Biology, California State University of Northridge, 2008 - 2013\n\nSpecialization: Biotechnology"
-  },
-  {
-    "objectID": "cv.html#honors-awards",
-    "href": "cv.html#honors-awards",
-    "title": "Curriculum Vitae",
-    "section": "Honors & Awards",
-    "text": "Honors & Awards\n\nCenter for Innovative Leadership Fellow, The Johns Hopkins University, 2024 - 2025\nNIH MARC U-STAR Scholar, California State University of Northridge, 2011 - 2013\nProject GRAD Scholar, California State University of Northridge, 2008 - 2013"
-  },
-  {
-    "objectID": "cv.html#patents",
-    "href": "cv.html#patents",
-    "title": "Curriculum Vitae",
-    "section": "Patents",
-    "text": "Patents\n\nUS20170342466A1: Processing blood samples to detect target nucleic acids\nUS20170051274A1: Sample concentration devices"
   },
   {
     "objectID": "my-updates-site/about.html",
