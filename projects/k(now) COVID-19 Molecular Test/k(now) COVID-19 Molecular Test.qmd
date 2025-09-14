@@ -3,6 +3,7 @@ title: 'Building a molecular test for an emerging disease in a global pandemic'
 image: bw_know_device.png
 # date: '2022-01-18'
 # date-format: long
+citation: false
 ---
 
 # The Journey Began...
