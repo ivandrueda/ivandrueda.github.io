@@ -6,7 +6,7 @@ author:
       family: Rueda
       literal: Ivan De Jesus Rueda
       non-dropping-particle: De Jesus
-    email: ivandrueda@icloud.com
+    # email: ivandrueda@icloud.com
 format:
   html:
     df-print: paged
