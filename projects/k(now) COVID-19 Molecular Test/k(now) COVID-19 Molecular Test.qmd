@@ -11,7 +11,7 @@ Six months before the COVID-19 pandemic took the world by storm, I had the great
 
 # My Role
 
--   Led rapid-response development as the technical program manager for the k(now) COVID-19 diagnostic test, coordinating agile product development with a cross-functional team of 6 specialists across engineering, regulatory, research, and business functions
+-   Led rapid-response development as the technical product manager for the k(now) COVID-19 diagnostic test, coordinating agile product development with a cross-functional team of 6 specialists across engineering, regulatory, research, and business functions
 
 -   Developed project roadmaps and resource allocation strategies that maintained development velocity despite pandemic-related supply chain and collaboration constraints
 
