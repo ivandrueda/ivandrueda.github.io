@@ -6,7 +6,7 @@ about:
 toc: false
 ---
 
-I'm a scientist and healthcare innovation strategist specializing in translating complex diagnostic technologies into market-ready solutions that clinicians and patients embrace. I have an MSc/MBA from The Johns Hopkins University and BSc from California State University, Northridge. While completing my graduate studies, I spent 2024-2025 as a [Center for Innovative Leadership Fellow](https://cil.carey.jhu.edu/) focusing on adaptive leadership in healthcare innovation.
+I'm a scientist and healthcare innovation strategist specializing in translating complex diagnostic technologies into market-ready solutions that clinicians and patients embrace. I have an MBA and MS from The Johns Hopkins University and a BS from California State University, Northridge. While completing my graduate studies, I spent 2024-2025 as a [Center for Innovative Leadership Fellow](https://cil.carey.jhu.edu/) focusing on adaptive leadership in healthcare innovation.
 
 Over 10+ years in biotechnology, I've led cross-functional teams in product development through FDA and EU regulatory pathways at companies like BiologyWorks and [Detect](https://www.detect.com). I've launched molecular diagnostic platforms achieving [99.1% accuracy](https://www.businesswire.com/news/home/20220116005038/en/BiologyWorks-know-COVID-19-Clinical-Trial-Matches-99.1-Accuracy-to-RT-PCR-Tests), secured $11M+ in funding for COVID-19 testing solutions, and earned two [patents](https://patents.google.com/?inventor=Ivan+RUEDA) in diagnostic technologies.
 
