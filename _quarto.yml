@@ -11,8 +11,8 @@ website:
         text: Home
       - href: cv.qmd
         text: CV
-      # - href: projects.qmd
-      #   text: Projects
+      - href: portfolio.qmd
+        text: Portfolio
       # - href: blog.qmd
       #   text: Blog
 

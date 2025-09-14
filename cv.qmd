@@ -12,18 +12,30 @@ format: html
 
 ## Education
 
-* MS/MBA in Biotechnology, The Johns Hopkins University, 2020 - 2025
-    * Specializations: Healthcare Management, Innovation, Technology, and Regulatory Affairs 
+* MBA, The Johns Hopkins University, 2020 - 2025
+    * Specialization: Healthcare Management, Innovation, and Technology
+* MS in Biotechnology, The Johns Hopkins University, 2020 - 2025
+    * Specialization: Regulatory Affairs
 * BS in Biology, California State University of Northridge, 2008 - 2013
     * Specialization: Biotechnology
 
 ## Honors & Awards
 
-* Center for Innovative Leadership Fellow, The Johns Hopkins University, 2024 - 2025
+* [Center for Innovative Leadership Fellow](https://credsverse.com/credentials/5dd3e1b8-591e-4775-8977-f165365c5384), The Johns Hopkins University, 2024 - 2025
 * NIH MARC U-STAR Scholar, California State University of Northridge, 2011 - 2013
 * Project GRAD Scholar, California State University of Northridge, 2008 - 2013
 
+## Professional Development
+
+* Product Strategy Micro-Certification (PSC) from [Product School](https://drive.google.com/file/d/1d7_HRHr_85q5CW4eX9hQkcEHA7BhD3su/view?usp=share_link), 2025
+* Lean Six Sigma Green Belt (LSSGB) from [Six Sigma Global Institute](https://drive.google.com/file/d/1gmA45a_yIryg0VsSp4b4gL088BMLTQ8D/view?usp=share_link), 2025
+* Data Scientist: Machine Learning from [Codecademy](https://www.codecademy.com/profiles/ivandrueda/certificates/8e9e59de3f924b33ad2371faf667129b), 2024
+* Professional Scrum Product Owner (PSM) from [Scrum.org](https://www.scrum.org/user/649661), 2023
+* Good Clinical Practice (GCP) from [National Institute of Allergy and Infectious Diseases](https://drive.google.com/file/d/1v-ZEwK_YjrunOvHqo3LVzBMmmz_nf7zb/view?usp=share_link), 2021
+* Strategic Innovation Programme from [The University of Oxford](https://drive.google.com/file/d/13ODiHwKHl2c2UqEX_KgcDdNd7stUhfy6/view?usp=share_link), 2020
+* Professional Scrum Master (PSM) from [Scrum.org](https://www.scrum.org/user/649661), 2020
+
 ## Patents
 
-* US20170342466A1: Processing blood samples to detect target nucleic acids
-* US20170051274A1: Sample concentration devices
+* [US20170342466A1](https://patents.google.com/patent/US20170342466A1/en): Processing blood samples to detect target nucleic acids
+* [US20170051274A1](https://patents.google.com/patent/US20170051274A1/en): Sample concentration devices
