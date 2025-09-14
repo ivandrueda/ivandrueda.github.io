@@ -1,0 +1,39 @@
+---
+title: 'Hibiscus Health: Expanding Preventative Health Technology'
+image: hh_scan.png
+# date: '2024-05-20'
+# date-format: long
+citation: false
+---
+
+# It All Started When When...
+
+The Johns Hopkins Graduate Consulting Club 2024 case competition presented a real-world challenge: develop a go-to-market strategy for Hibiscus Health's breakthrough facial scanning technology. While the startup had successfully created AI-powered technology to detect early signs of metabolic conditions like pre-diabetes and hypertension through non-invasive blood flow analysis, they faced critical strategic challenges: unclear market positioning in a crowded digital health landscape, the need for a sustainable business model demonstrating clear value to multiple stakeholders, and uncertainty about how to expand their single-application technology into a broader platform. The challenge required identifying new clinical applications while addressing regulatory complexities and building sustainable competitive advantages.
+
+# My Role
+
+-   Conducted competitive analysis across facial scanning platforms, identifying key market differentiators and positioning Hibiscus Health's expansion into oral health biomarker detection as a first-to-market opportunity.
+
+-   Setup dual-pathway technology enhancement leveraging PPG signal analysis and CNN imaging to create "smile scanning" capability, establishing the scientific linkage between periodontal disease and metabolic conditions.
+
+-   Designed subscription-based "Smile & Subscribe" model with tiered pricing and partnership revenue streams, integrating with established platforms like Omada, Vida, and Cigna for comprehensive care coordination.
+
+-   Developed tiered pricing structure with clear value propositions for each segment, projecting sustainable unit economics and 5-year financial projections
+
+-   Created ecosystem strategy connecting patients to established platforms (Omada, Vida, Cigna) for care coordination and outcome optimization
+
+# Results
+
+-   Hibiscus Health [adopted core recommendations from the winning strategy](https://hibiscushealth.com/#how-it-works), validating the practical applicability of the proposed product strategy and business model
+
+-   First-place victory at Johns Hopkins Graduate Consulting Club 2024 Annual Case Competition
+
+-   \$1.2 billion projected cumulative healthcare savings over 5 years through preventative screening interventions
+
+-   Projected 90% reduction in preventable periodontal cases targeting 32.8 million prediabetic adults aged 18-44
+
+-   Competitive differentiation through first-to-market oral health integration in facial scanning technology, creating sustainable IP-protected market position
+
+-   \$1.65 million funding requirement identified with sustainable 5% revenue capture model from healthcare savings
+
+![*Hibiscus Health's smartphone-based facial scanning technology detects cardiovascular disease risk (45.03% shown) by analyzing blood flow patterns in the eyes and oral cavity. The AI-powered system measures 5+ biomarkers in 30 seconds without blood tests, demonstrating the core technology our strategy expanded into smile-based periodontal screening.*](hh_concept.png)
