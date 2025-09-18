@@ -14,13 +14,13 @@ This personal experience connected to a much larger problem: 70 million American
 
 # My Role
 
--   Conducted extensive independent research into the 4-6 month diagnostic delay patterns affecting young adults with GI symptoms, analyzing clinical literature and patient experience data to validate the testimonial injustice problem
+* Conducted extensive independent research into 4-6 month diagnostic delay patterns affecting young adults with GI symptoms, using mixed-method approach including 14 patient interviews, 6 provider interviews, and systematic literature review of 45+ studies
 
--   Created go-to-market strategy including persona development, user journey mapping, and competitive analysis, identifying a \$59M TAM with clear path to product-market fit
+* Applied design thinking methodology and thematic analysis to identify "testimonial injustice" as core user problem, performing competitive analysis across 8 digital health platforms to inform positioning strategy
 
--   Designed and executed user research methodology to understand both patient and provider perspectives, developing evidence-based design principles for addressing healthcare communication barriers
+* Created go-to-market strategy including persona development and user journey mapping, identifying \$59M TAM with evidence-based design principles for healthcare communication barriers
 
--   Built financial models demonstrating potential \$270K cost savings per prevented late-stage diagnosis, with detailed roadmap from bootstrap MVP to Series A expansion
+* Built financial models demonstrating \$270K cost savings per prevented late-stage diagnosis, with detailed roadmap from bootstrap MVP to Series A expansion
 
 # Results
 
