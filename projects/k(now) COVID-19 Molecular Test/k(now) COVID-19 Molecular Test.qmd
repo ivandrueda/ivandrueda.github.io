@@ -16,6 +16,8 @@ Six months before the COVID-19 pandemic took the world by storm, I had the great
 
 * Translated stakeholder workflow insights and regulatory pathway research into technical product specifications, serving as technical product manager coordinating cross-functional team of 6 across engineering, regulatory, and business functions
 
+* Directed scientific development of molecular diagnostic assays as science lead, ensuring product specifications met both customer requirements and regulatory standards for 99.1% accuracy performance
+
 * Created product roadmaps with measurable OKRs and milestone-based resource allocation that maintained 14-month delivery timeline despite pandemic supply chain disruptions
 
 * Implemented structured communication protocols across laboratory staff, engineering teams, and C-suite executives, ensuring strategic alignment between technical capabilities, regulatory requirements, and business objectives
