@@ -30,7 +30,7 @@ format: html
 * Product Strategy Micro-Certification (PSC) from [Product School](https://drive.google.com/file/d/1d7_HRHr_85q5CW4eX9hQkcEHA7BhD3su/view?usp=share_link), 2025
 * Lean Six Sigma Green Belt (LSSGB) from [Six Sigma Global Institute](https://drive.google.com/file/d/1gmA45a_yIryg0VsSp4b4gL088BMLTQ8D/view?usp=share_link), 2025
 * Data Scientist: Machine Learning from [Codecademy](https://www.codecademy.com/profiles/ivandrueda/certificates/8e9e59de3f924b33ad2371faf667129b), 2024
-* Professional Scrum Product Owner (PSM) from [Scrum.org](https://www.scrum.org/user/649661), 2023
+* Professional Scrum Product Owner (PSPO) from [Scrum.org](https://www.scrum.org/user/649661), 2023
 * Good Clinical Practice (GCP) from [National Institute of Allergy and Infectious Diseases](https://drive.google.com/file/d/1v-ZEwK_YjrunOvHqo3LVzBMmmz_nf7zb/view?usp=share_link), 2021
 * Strategic Innovation Programme from [The University of Oxford](https://drive.google.com/file/d/13ODiHwKHl2c2UqEX_KgcDdNd7stUhfy6/view?usp=share_link), 2020
 * Professional Scrum Master (PSM) from [Scrum.org](https://www.scrum.org/user/649661), 2020

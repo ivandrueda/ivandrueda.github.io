@@ -12,6 +12,6 @@ Over 10+ years in biotechnology, I've led cross-functional teams in product deve
 
 My career started as a research scientist developing novel polymer chemistry and sample preparation biochemistry for liquid biopsy analysis. Over time, I transitioned into roles that bridge breakthrough science with real-world healthcare applications in home and point-of-care use cases. My work spans surface chemistry, assay development, data science, and technical product leadership across the diagnostics industry.
 
-I'm passionate about making complex healthcare technology accessible by creating products that integrate seamlessly into clinical workflows and empower collaborative decision-making for patients and providers. My graduate work in healthcare economics, AI applications, and regulatory affairs directly informs my approach to finding the hidden connections between novel science and commercially viable solutions. 
+I'm passionate about making complex healthcare technology accessible by driving products that integrate seamlessly into clinical workflows and empower collaborative decision-making for patients and providers. My graduate work in healthcare economics, AI applications, and regulatory affairs directly informs my approach to finding the hidden connections between novel science and commercially viable solutions. 
 
 I live in Chicago with my girlfriend and our corgi. In my free time, I play guitar and synthesizers.
