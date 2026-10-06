@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ivan D. Rueda - Portfolio</title>
+<title>Ivan D. Rueda - Selected work in healthcare products and operations</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,20 +71,48 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-selected-work .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-selected-work'] = new List('listing-selected-work', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-secondary-work .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-secondary-work'] = new List('listing-secondary-work', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -130,7 +158,7 @@ window.Quarto = {
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -182,15 +210,13 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Portfolio</h1>
+<h1 class="title">Selected work in healthcare products and operations</h1>
 </div>
 
 
@@ -207,73 +233,41 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1758213154809" data-listing-reading-time-sort="2" data-listing-word-count-sort="382">
+<p>I’m a product leader with a background in diagnostics and healthcare. These examples show how I turn user and operating needs into product requirements, delivery decisions, and analytical recommendations.</p>
+<p>For strategy and analytics work, start with <a href="./projects/kauno-klinikos-surgical-coordination/index.html">Kauno Klinikos: evaluating a surgical-coordination proposal</a>.</p>
+<section id="selected-healthcare-work" class="level2">
+<h2 class="anchored" data-anchor-id="selected-healthcare-work">Selected healthcare work</h2>
+<div id="listing-selected-work" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1791060605785" data-listing-reading-time-sort="3" data-listing-word-count-sort="556">
 <a href="./projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/k(now) COVID-19 Molecular Test/bw_know_device.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Building a molecular test for an emerging disease in a global pandemic
+BiologyWorks: Adapting a diagnostic workflow for laboratory use
 </h5>
+<div class="card-subtitle listing-subtitle">
+Technical product leadership · Customer-deployed workflow
+</div>
 <div class="card-text listing-description">
-Six months before the COVID-19 pandemic took the world by storm, I had the great fortune of a trio of entrepreneurs taking an interest in some unique diagnostic patents I…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Ivan De Jesus Rueda
-</div>
+Laboratory feedback exposed a scanning constraint. I translated it into priorities for pre-run cartridge/device linking and result routing. The team delivered a capability that reached customer deployment.
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1758207902200" data-listing-reading-time-sort="3" data-listing-word-count-sort="473">
-<a href="./projects/JHGCC Hibiscus Health/Hibiscus Health: Expanding Preventative Health Technology.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1791060230374" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
+<a href="./projects/kauno-klinikos-surgical-coordination/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/JHGCC Hibiscus Health/hh_scan.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Hibiscus Health: Expanding Preventative Health Technology
+Kauno Klinikos: Evaluating a surgical-coordination proposal
 </h5>
+<div class="card-subtitle listing-subtitle">
+Graduate team consulting · Modeled operating proposal
+</div>
 <div class="card-text listing-description">
-Hibiscus Health had developed breakthrough AI-powered facial scanning technology that detects metabolic conditions like pre-diabetes through smartphone cameras, but faced a…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Ivan De Jesus Rueda
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1762536625957" data-listing-reading-time-sort="3" data-listing-word-count-sort="525">
-<a href="./projects/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./projects/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health/th_pile.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Researching a User-Centered Digital Health Solution for GI Complications: Trace Health
-</h5>
-<div class="card-text listing-description">
-Watching someone you love struggle with serious digestive health issues changes your perspective on healthcare. When my girlfriend faced life-threatening GI complications, I…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-Ivan De Jesus Rueda
-</div>
+I contributed to a hospital workflow business case using Monte Carlo and Bayesian analysis. Hospital stakeholders accepted the team’s assumptions and reasoning; financial and operating benefits remained projections.
 </div>
 </div>
 </div>
@@ -283,7 +277,59 @@ Ivan De Jesus Rueda
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="research-and-concept-work" class="level2">
+<h2 class="anchored" data-anchor-id="research-and-concept-work">Research and concept work</h2>
+<p>These examples show discovery and proposal development. Their clinical and economic benefits remain hypotheses or projections.</p>
+<div id="listing-secondary-work" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1791060230412" data-listing-reading-time-sort="3" data-listing-word-count-sort="531">
+<a href="./projects/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Trace Health: Researching GI diagnostic advocacy
+</h5>
+<div class="card-subtitle listing-subtitle">
+Independent product research · Concept and research outputs
+</div>
+<div class="card-text listing-description">
+I used patient and provider research to develop personas, journey maps, and a product strategy for diagnostic advocacy. Clinical and economic benefits remain hypotheses and estimates.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1791060230452" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
+<a href="./projects/JHGCC Hibiscus Health/Hibiscus Health: Expanding Preventative Health Technology.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hibiscus Health: Proposing an oral-health screening strategy
+</h5>
+<div class="card-subtitle listing-subtitle">
+Graduate case competition · First-place team proposal
+</div>
+<div class="card-text listing-description">
+I contributed competitive analysis, a screening concept, and business-model work to a first-place team proposal. Savings and health-impact estimates are projections from the competition analysis.
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<p><a href="./cv.html">View my CV</a> · <a href="https://www.linkedin.com/in/ivan-rueda-b720685a/">Connect on LinkedIn</a></p>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
