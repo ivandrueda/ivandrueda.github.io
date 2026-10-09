@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1150" viewBox="0 0 480 1150" role="img" aria-labelledby="title desc">
+<title id="title">Stakeholder needs connected to design and measurement</title><desc id="desc">Five stakeholder groups, their design considerations, proposed responses and proposed measures. Nursing expertise informed intervention design.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#718a95"/></marker></defs>
+<rect x="0" y="0" width="480" height="1150" rx="0" fill="#ffffff"/>
+<text x="28" y="34" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="28" dy="0">01 / DESIGN + ANALYSIS</tspan>
+</text>
+<text x="28" y="76" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">
+<tspan x="28" dy="0">Whose needs shaped the design</tspan>
+</text>
+<rect x="24" y="115" width="432" height="174" rx="12" fill="#f4f8fa"/>
+<text x="42" y="145" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="42" dy="0">Patients</tspan>
+</text>
+<text x="42" y="180" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">NEED</tspan>
+</text>
+<text x="121" y="180" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Clear preparation</tspan>
+</text>
+<text x="42" y="220" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">DESIGN</tspan>
+</text>
+<text x="121" y="220" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Staged communication</tspan>
+</text>
+<text x="42" y="260" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">MEASURE</tspan>
+</text>
+<text x="121" y="260" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Readiness completion</tspan>
+</text>
+<rect x="24" y="305" width="432" height="174" rx="12" fill="#f4f8fa"/>
+<text x="42" y="335" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="42" dy="0">Surgical teams</tspan>
+</text>
+<text x="42" y="370" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">NEED</tspan>
+</text>
+<text x="121" y="370" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Predictable schedules</tspan>
+</text>
+<text x="42" y="410" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">DESIGN</tspan>
+</text>
+<text x="121" y="410" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Shared case booking</tspan>
+</text>
+<text x="42" y="450" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">MEASURE</tspan>
+</text>
+<text x="121" y="450" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Duration variance</tspan>
+</text>
+<rect x="24" y="495" width="432" height="174" rx="12" fill="#f4f8fa"/>
+<text x="42" y="525" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="42" dy="0">Anesthesia teams</tspan>
+</text>
+<text x="42" y="560" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">NEED</tspan>
+</text>
+<text x="121" y="560" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Readiness and coverage</tspan>
+</text>
+<text x="42" y="600" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">DESIGN</tspan>
+</text>
+<text x="121" y="600" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Combined availability</tspan>
+</text>
+<text x="42" y="640" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">MEASURE</tspan>
+</text>
+<text x="121" y="640" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Checklist completion</tspan>
+</text>
+<rect x="24" y="685" width="432" height="174" rx="12" fill="#eaf5f4"/>
+<text x="42" y="715" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="42" dy="0">OR nurses and teams</tspan>
+</text>
+<text x="42" y="750" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">NEED</tspan>
+</text>
+<text x="121" y="750" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Reliable handoffs</tspan>
+</text>
+<text x="42" y="790" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">DESIGN</tspan>
+</text>
+<text x="121" y="790" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Shared status and handoffs</tspan>
+</text>
+<text x="42" y="830" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">MEASURE</tspan>
+</text>
+<text x="121" y="830" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Handoff timing</tspan>
+</text>
+<rect x="24" y="875" width="432" height="174" rx="12" fill="#f4f8fa"/>
+<text x="42" y="905" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="42" dy="0">Hospital operations</tspan>
+</text>
+<text x="42" y="940" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">NEED</tspan>
+</text>
+<text x="121" y="940" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Visibility across services</tspan>
+</text>
+<text x="42" y="980" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">DESIGN</tspan>
+</text>
+<text x="121" y="980" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Coordination and review</tspan>
+</text>
+<text x="42" y="1020" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">
+<tspan x="42" dy="0">MEASURE</tspan>
+</text>
+<text x="121" y="1020" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="121" dy="0">Booking and block use</tspan>
+</text>
+<text x="28" y="1103" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="28" dy="0">Nursing expertise informed intervention design.</tspan>
+<tspan x="28" dy="22.08">Measures are proposed for later testing.</tspan>
+</text>
+</svg>

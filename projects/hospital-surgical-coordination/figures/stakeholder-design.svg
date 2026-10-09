@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="694" viewBox="0 0 1200 694" role="img" aria-labelledby="title desc">
+<title id="title">Stakeholder needs connected to design and measurement</title><desc id="desc">Five stakeholder groups are connected to design considerations, proposed responses, and proposed process measures. These are a synthesis of the project recommendations, not findings from patient interviews.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#718a95"/></marker></defs>
+<rect x="0" y="0" width="1200" height="694" rx="0" fill="#ffffff"/>
+<text x="36" y="40" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="36" dy="0">01 / DESIGN + ANALYSIS</tspan>
+</text>
+<text x="36" y="91" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700">
+<tspan x="36" dy="0">Whose needs shaped the design</tspan>
+</text>
+<text x="36" y="128" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="36" dy="0">Design considerations translated into proposed workflow changes</tspan>
+</text>
+<text x="50" y="185" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="50" dy="0">STAKEHOLDER</tspan>
+</text>
+<text x="285" y="185" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="285" dy="0">DESIGN CONSIDERATION</tspan>
+</text>
+<text x="585" y="185" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="585" dy="0">PROPOSED RESPONSE</tspan>
+</text>
+<text x="935" y="185" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="935" dy="0">MEASURE</tspan>
+</text>
+<rect x="36" y="207" width="1128" height="72" rx="10" fill="#f4f8fa"/>
+<rect x="36" y="207" width="5" height="72" rx="2" fill="#315c90"/>
+<text x="50" y="238" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
+<tspan x="50" dy="0">Patients</tspan>
+</text>
+<text x="285" y="238" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="285" dy="0">Clear preparation</tspan>
+</text>
+<text x="585" y="238" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="585" dy="0">Staged communication</tspan>
+</text>
+<text x="935" y="238" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="935" dy="0">Readiness completion</tspan>
+</text>
+<path d="M550,243 L568,243" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="290" width="1128" height="72" rx="10" fill="#f4f8fa"/>
+<rect x="36" y="290" width="5" height="72" rx="2" fill="#315c90"/>
+<text x="50" y="321" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
+<tspan x="50" dy="0">Surgical teams</tspan>
+</text>
+<text x="285" y="321" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="285" dy="0">Predictable schedules</tspan>
+</text>
+<text x="585" y="321" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="585" dy="0">Shared case booking</tspan>
+</text>
+<text x="935" y="321" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="935" dy="0">Duration variance</tspan>
+</text>
+<path d="M550,326 L568,326" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="373" width="1128" height="72" rx="10" fill="#f4f8fa"/>
+<rect x="36" y="373" width="5" height="72" rx="2" fill="#315c90"/>
+<text x="50" y="404" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
+<tspan x="50" dy="0">Anesthesia teams</tspan>
+</text>
+<text x="285" y="404" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="285" dy="0">Readiness and coverage</tspan>
+</text>
+<text x="585" y="404" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="585" dy="0">Combined availability</tspan>
+</text>
+<text x="935" y="404" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="935" dy="0">Checklist completion</tspan>
+</text>
+<path d="M550,409 L568,409" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="456" width="1128" height="72" rx="10" fill="#eaf5f4"/>
+<rect x="36" y="456" width="5" height="72" rx="2" fill="#177d86"/>
+<text x="50" y="487" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
+<tspan x="50" dy="0">OR nurses and teams</tspan>
+</text>
+<text x="285" y="487" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="285" dy="0">Reliable handoffs</tspan>
+</text>
+<text x="585" y="487" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="585" dy="0">Shared status and handoffs</tspan>
+</text>
+<text x="935" y="487" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="935" dy="0">Handoff timing</tspan>
+</text>
+<path d="M550,492 L568,492" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="36" y="539" width="1128" height="72" rx="10" fill="#f4f8fa"/>
+<rect x="36" y="539" width="5" height="72" rx="2" fill="#315c90"/>
+<text x="50" y="570" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
+<tspan x="50" dy="0">Hospital operations</tspan>
+</text>
+<text x="285" y="570" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="285" dy="0">Visibility across</tspan>
+<tspan x="285" dy="23">services</tspan>
+</text>
+<text x="585" y="570" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="585" dy="0">Coordination and review</tspan>
+</text>
+<text x="935" y="570" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="935" dy="0">Booking and block use</tspan>
+</text>
+<path d="M550,575 L568,575" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="36" y="659" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="36" dy="0">Nursing expertise informed intervention design; the proposed measures support later testing.</tspan>
+</text>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1370" viewBox="0 0 480 1370" role="img" aria-labelledby="title desc">
+<title id="title">Exploratory Bayesian and workflow simulation approach</title><desc id="desc">Recorded outcomes and literature assumptions enter Bayesian inference. Factor distributions and step assumptions inform workflow simulation. Alternative structures are compared as hypotheses, with future measurement and pilot validation proposed.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#718a95"/></marker></defs>
+<rect x="0" y="0" width="480" height="1370" rx="0" fill="#ffffff"/>
+<text x="28" y="34" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="28" dy="0">03 / DESIGN + ANALYSIS</tspan>
+</text>
+<text x="28" y="76" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">
+<tspan x="28" dy="0">From evidence to</tspan>
+<tspan x="28" dy="34.5">design hypotheses</tspan>
+</text>
+<text x="28" y="143" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="28" dy="0">Exploratory model reconstruction</tspan>
+</text>
+<rect x="24" y="171" width="432" height="110" rx="12" fill="#f4f8fa"/>
+<text x="43" y="202" fill="#315c90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">RECORDED OUTCOMES</tspan>
+</text>
+<text x="43" y="237" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="43" dy="0">Cancellations, timing</tspan>
+<tspan x="43" dy="27.599999999999998">Within-OR efficiency</tspan>
+</text>
+<rect x="24" y="299" width="432" height="110" rx="12" fill="#fbf2e9"/>
+<text x="43" y="330" fill="#a96628" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">ASSUMPTIONS</tspan>
+</text>
+<text x="43" y="364" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">
+<tspan x="43" dy="0">Literature priors, workflow links</tspan>
+<tspan x="43" dy="27.599999999999998">Step probabilities and durations</tspan>
+</text>
+<path d="M240,414 L240,445" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)" stroke-dasharray="6 5"/>
+<rect x="24" y="462" width="432" height="244" rx="12" fill="#eaf5f4"/>
+<text x="43" y="493" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PHASE 1 / BAYESIAN INFERENCE</tspan>
+</text>
+<text x="43" y="529" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+<tspan x="43" dy="0">Hidden operating factors</tspan>
+</text>
+<text x="43" y="566" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Coordination / Scheduling effectiveness</tspan>
+<tspan x="43" dy="34">Patient preparedness</tspan>
+<tspan x="43" dy="34">Anesthesia readiness / OR team performance</tspan>
+</text>
+<path d="M240,711 L240,738" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="755" width="432" height="158" rx="12" fill="#f4f8fa"/>
+<text x="43" y="786" fill="#315c90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PHASE 2 / WORKFLOW SIMULATION</tspan>
+</text>
+<text x="43" y="822" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Factor distributions + step assumptions</tspan>
+<tspan x="43" dy="30">Explore probabilities and durations</tspan>
+<tspan x="43" dy="30">under different coordination scenarios</tspan>
+</text>
+<path d="M240,918 L240,948" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="965" width="432" height="135" rx="12" fill="#f4f8fa"/>
+<text x="43" y="996" fill="#315c90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">COMPARE DESIGN OPTIONS</tspan>
+</text>
+<text x="43" y="1032" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="43" dy="0">Baseline / Central coordination</tspan>
+<tspan x="43" dy="26.22">Specialty teams / Facility-based teams</tspan>
+</text>
+<path d="M240,1105 L240,1132" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="1149" width="432" height="142" rx="12" fill="#eaf5f4"/>
+<text x="43" y="1180" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PROPOSE A MEASUREMENT PILOT</tspan>
+</text>
+<text x="43" y="1216" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Readiness, handoffs, and booking accuracy</tspan>
+<tspan x="43" dy="29">Use process data to test assumptions</tspan>
+</text>
+<text x="28" y="1332" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="28" dy="0">Recommendations and models; effects unvalidated.</tspan>
+</text>
+</svg>

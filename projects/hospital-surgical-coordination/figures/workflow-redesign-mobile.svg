@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1204" viewBox="0 0 480 1204" role="img" aria-labelledby="title desc">
+<title id="title">Moving coordination earlier in the surgical workflow</title><desc id="desc">Separate preparation and scheduling streams meet late in the current workflow; the proposed workflow uses shared readiness and scheduling ahead of the OR handoff. Proposed patient touchpoints are initial work-up, preparation review and final confirmation.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#718a95"/></marker></defs>
+<rect x="0" y="0" width="480" height="1204" rx="0" fill="#ffffff"/>
+<text x="28" y="34" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="28" dy="0">02 / DESIGN + ANALYSIS</tspan>
+</text>
+<text x="28" y="76" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">
+<tspan x="28" dy="0">Move coordination upstream</tspan>
+</text>
+<rect x="24" y="116" width="432" height="400" rx="12" fill="#f4f8fa"/>
+<text x="42" y="149" fill="#a96628" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="42" dy="0">CURRENT FINDINGS</tspan>
+</text>
+<rect x="42" y="168" width="396" height="94" rx="8" fill="#ffffff" stroke="#dce6eb"/>
+<text x="61" y="197" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="61" dy="0">Patient preparation</tspan>
+<tspan x="61" dy="26">Surgery scheduling</tspan>
+<tspan x="61" dy="26">Anesthesia availability</tspan>
+</text>
+<path d="M240,266 L240,294" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="310" width="396" height="80" rx="8" fill="#fbf2e9"/>
+<text x="61" y="341" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">
+<tspan x="61" dy="0">Late reconciliation</tspan>
+<tspan x="61" dy="28.979999999999997">on the day of surgery</tspan>
+</text>
+<path d="M240,395 L240,420" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="435" width="396" height="54" rx="8" fill="#ffffff" stroke="#dce6eb"/>
+<text x="61" y="470" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">
+<tspan x="61" dy="0">OR team handoff</tspan>
+</text>
+<rect x="24" y="542" width="432" height="420" rx="12" fill="#eaf5f4"/>
+<text x="42" y="575" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="42" dy="0">PROPOSED WORKFLOW</tspan>
+</text>
+<rect x="42" y="594" width="396" height="94" rx="8" fill="#ffffff" stroke="#dce6eb"/>
+<text x="61" y="623" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="400">
+<tspan x="61" dy="0">Patient preparation</tspan>
+<tspan x="61" dy="26">Surgery scheduling</tspan>
+<tspan x="61" dy="26">Anesthesia availability</tspan>
+</text>
+<path d="M240,693 L240,718" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="734" width="396" height="104" rx="8" fill="#ffffff" stroke="#177d86"/>
+<text x="61" y="766" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">
+<tspan x="61" dy="0">Shared readiness and schedule</tspan>
+</text>
+<text x="61" y="805" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="61" dy="0">Clinical coordination role</tspan>
+</text>
+<path d="M240,843 L240,868" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="42" y="883" width="396" height="54" rx="8" fill="#ffffff" stroke="#177d86"/>
+<text x="61" y="918" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">
+<tspan x="61" dy="0">OR team handoff</tspan>
+</text>
+<text x="28" y="1007" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="28" dy="0">PROPOSED PATIENT TOUCHPOINTS</tspan>
+</text>
+<text x="28" y="1042" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">Early preparation</tspan>
+</text>
+<text x="28" y="1066" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="28" dy="0">Initial work-up</tspan>
+</text>
+<text x="28" y="1093" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">Readiness review</tspan>
+</text>
+<text x="28" y="1117" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="28" dy="0">Preparation review</tspan>
+</text>
+<text x="28" y="1144" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">Final confirmation</tspan>
+</text>
+<text x="28" y="1168" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="28" dy="0">Before surgery</tspan>
+</text>
+</svg>

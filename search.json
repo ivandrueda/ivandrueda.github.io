@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "projects/kauno-klinikos-surgical-coordination/index.html",
-    "href": "projects/kauno-klinikos-surgical-coordination/index.html",
-    "title": "Kauno Klinikos: Evaluating a surgical-coordination proposal",
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
     "section": "",
-    "text": "Role: Graduate Student Consultant in a Johns Hopkins healthcare and regulatory strategy team engagement."
+    "text": "Role: Technical Product Manager, 2020–2022."
   },
   {
-    "objectID": "projects/kauno-klinikos-surgical-coordination/index.html#the-operating-question",
-    "href": "projects/kauno-klinikos-surgical-coordination/index.html#the-operating-question",
-    "title": "Kauno Klinikos: Evaluating a surgical-coordination proposal",
-    "section": "The operating question",
-    "text": "The operating question\nThe project examined surgical coordination at Kauno Klinikos, a Lithuanian hospital. The team investigated how coordination across surgical and anesthesiology departments, scheduling, and resource use could inform a proposal to reduce cancellations and improve utilization."
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#assay-chemistry-and-platform-development",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#assay-chemistry-and-platform-development",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "Assay chemistry and platform development",
+    "text": "Assay chemistry and platform development\nAs technical product manager, I drew on my scientific background to lead the development of the molecular assay chemistry. I also led ideation for the hardware and software platform in collaboration with engineering and software teams.\nThe laboratory workflow below was one part of that broader product-development work."
   },
   {
-    "objectID": "projects/kauno-klinikos-surgical-coordination/index.html#my-contribution",
-    "href": "projects/kauno-klinikos-surgical-coordination/index.html#my-contribution",
-    "title": "Kauno Klinikos: Evaluating a surgical-coordination proposal",
-    "section": "My contribution",
-    "text": "My contribution\nI contributed to hospital workflow analysis, requirements for a surgical-coordination solution, and a business case using Monte Carlo simulation and Bayesian Network Analysis. The team developed an alignment framework and a phased implementation roadmap."
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#the-laboratory-workflow-problem",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#the-laboratory-workflow-problem",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "The laboratory workflow problem",
+    "text": "The laboratory workflow problem\nThe digital tool began as an internal way to connect cartridges, device runs, and results so the laboratory team could develop and evaluate assays. Laboratory and distributor feedback revealed a constraint: smartphone QR scanning inside biological safety cabinets did not fit the higher-throughput workflow customers requested."
   },
   {
-    "objectID": "projects/kauno-klinikos-surgical-coordination/index.html#recommendation-and-supporting-reasoning",
-    "href": "projects/kauno-klinikos-surgical-coordination/index.html#recommendation-and-supporting-reasoning",
-    "title": "Kauno Klinikos: Evaluating a surgical-coordination proposal",
-    "section": "Recommendation and supporting reasoning",
-    "text": "Recommendation and supporting reasoning\nThe team proposed a centralized clinical-coordination system with integrated scheduling. Workflow analysis and the modeled business case supported the proposal; the roadmap set out a phased approach to deployment and utilization goals.\nThe analysis depended on operating-model assumptions. The team tested those assumptions with hospital stakeholders, who accepted the team’s reasoning. That feedback supported the proposed approach, while the financial and operating benefits remained projections."
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#my-contribution-and-the-product-decision",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#my-contribution-and-the-product-decision",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "My contribution and the product decision",
+    "text": "My contribution and the product decision\nI translated that evidence into product requirements and priorities for scanning and linking cartridges to devices before a run and routing results into the customer’s laboratory information management system (LIMS). The team expanded the existing tool into a customer workflow capability.\nFor this workflow adaptation, my contribution was product discovery, requirements, and prioritization within the team. We expanded the existing internal tool to meet external laboratory needs.\n\nFrom an internal tool to a laboratory workflow capability\n\n\n1. Existing tool\nCartridge → device run → results.\nThe internal tool supported assay development and evaluation.\n\n\n2. Evidence that changed priorities\nSmartphone QR scanning inside a biological safety cabinet did not fit the requested laboratory workflow.\nLaboratory and distributor input informed the requirements.\n\n\n3. Expanded capability\nPre-run cartridge/device association → device run → results routed to customer LIMS.\nThe resulting workflow capability reached customer deployment.\n\n\n\nRetrospective reconstruction of the confirmed workflow. My contribution was translating laboratory evidence into product requirements and priorities; the team expanded and delivered the capability."
   },
   {
-    "objectID": "projects/kauno-klinikos-surgical-coordination/index.html#result-and-limits",
-    "href": "projects/kauno-klinikos-surgical-coordination/index.html#result-and-limits",
-    "title": "Kauno Klinikos: Evaluating a surgical-coordination proposal",
-    "section": "Result and limits",
-    "text": "Result and limits\nThe completed work produced an operating proposal, analytical business case, and implementation roadmap. Stakeholder acceptance concerned the team’s assumptions and reasoning. Implementation and realized benefits are unverified.\nThis case presents the operating logic and contribution without financial headlines or sensitivity results. It does not claim realized savings, improved utilization, or fewer cancellations."
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#workflow-result",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#workflow-result",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "Workflow result",
+    "text": "Workflow result\nThe workflow capability reached customer deployment during my involvement. A reliable individual-user adoption count is unavailable, so this case does not quantify adoption or throughput improvement."
+  },
+  {
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#diagnostic-product-context",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#diagnostic-product-context",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "Diagnostic product context",
+    "text": "Diagnostic product context\nThe broader COVID-19 molecular diagnostic achieved 99.1% overall agreement with laboratory RT-PCR results in an independent clinical study of 330 patients. The development timeline was 14 months from concept through clinical validation. These are diagnostic-product results, separate from the digital workflow’s adoption and throughput.\n\n\n\nBiologyWorks k(now) device with its test cartridge inserted. This image provides product context for the workflow above."
+  },
+  {
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#broader-product-leadership",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#broader-product-leadership",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "Broader product leadership",
+    "text": "Broader product leadership\nBefore the pandemic, entrepreneurs took an interest in diagnostic patents I had generated at Monolythix. At BiologyWorks, I supported business planning, market analysis, user research, and investor communication as the team built a laboratory and developed the diagnostic product.\n\nLed discovery through 20+ interviews with patients, laboratory technicians, and clinical partners and assessed 10+ molecular-diagnostic platforms to inform product positioning.\nTranslated stakeholder needs into product specifications and coordinated a six-person team across engineering, regulatory, and business functions.\nPlanned roadmaps, milestones, and resource allocation through the 14-month concept-to-validation program.\nSupported investor and grant communication for the company’s $11M seed round and separate $100K Gates Foundation award.\nEstablished laboratory infrastructure and coordinated onsite laboratory work with remote and cross-site business and engineering teams."
+  },
+  {
+    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#supporting-discovery-artifacts",
+    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#supporting-discovery-artifacts",
+    "title": "BiologyWorks: Developing a molecular diagnostic and laboratory workflow",
+    "section": "Supporting discovery artifacts",
+    "text": "Supporting discovery artifacts\nThese existing artifacts describe the broader diagnostic user experience. They include proposed design ideas and should not be read as evidence that every feature was delivered.\n\n\n\nUser questions and design ideas spanning setup, sample collection, safety, trust, privacy, and ethics. The “New Ideas” row records proposals.\n\n\n\n\n\nHigh-level diagnostic journey connecting customer touchpoints with internal work. This is broader discovery context, separate from the laboratory workflow reconstruction."
   },
   {
     "objectID": "projects/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health/Researching a User-Centered Healthcare Solution for GI Complications: Trace Health.html",
@@ -144,14 +165,14 @@
     "href": "portfolio.html",
     "title": "Selected work in healthcare products and operations",
     "section": "",
-    "text": "I’m a product leader with a background in diagnostics and healthcare. These examples show how I turn user and operating needs into product requirements, delivery decisions, and analytical recommendations.\nFor strategy and analytics work, start with Kauno Klinikos: evaluating a surgical-coordination proposal."
+    "text": "I’m a product leader with a background in diagnostics and healthcare. These examples cover assay and platform development, translating user and operating needs into product requirements, and analytical recommendations.\nFor design and analytics work, start with surgical coordination at an academic hospital."
   },
   {
     "objectID": "portfolio.html#selected-healthcare-work",
     "href": "portfolio.html#selected-healthcare-work",
     "title": "Selected work in healthcare products and operations",
     "section": "Selected healthcare work",
-    "text": "Selected healthcare work\n\n\n\n\n\n\n\nBiologyWorks: Adapting a diagnostic workflow for laboratory use\n\n\nTechnical product leadership · Customer-deployed workflow\n\n\nLaboratory feedback exposed a scanning constraint. I translated it into priorities for pre-run cartridge/device linking and result routing. The team delivered a capability that reached customer deployment.\n\n\n\n\n\n\n\n\n\n\nKauno Klinikos: Evaluating a surgical-coordination proposal\n\n\nGraduate team consulting · Modeled operating proposal\n\n\nI contributed to a hospital workflow business case using Monte Carlo and Bayesian analysis. Hospital stakeholders accepted the team’s assumptions and reasoning; financial and operating benefits remained projections.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Selected healthcare work\n\n\n\n\n\n\n\nBiologyWorks: Developing a molecular diagnostic and laboratory workflow\n\n\nTechnical product management · Assay chemistry and platform ideation\n\n\nI led assay chemistry development and hardware/software platform ideation with engineering and software teams. I also translated laboratory feedback into requirements for pre-run cartridge/device linking and LIMS result routing. The workflow capability reached customer deployment.\n\n\n\n\n\n\n\n\n\n\nDesigning surgical coordination at an academic hospital\n\n\nTeam project management · Stakeholder research · Model development\n\n\nI led a graduate consulting team and built Bayesian and Monte Carlo models to explore surgical workflow constraints. With nurses on the team informing intervention design, we translated stakeholder needs into coordination proposals and a measurement plan.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio.html#research-and-concept-work",
@@ -196,52 +217,38 @@
     "text": "Concept and business-model artifacts\n\n\n\nScreening-concept illustration used to explain the proposal. The displayed risk percentage is illustrative interface content, not diagnostic accuracy, clinical validation, or a measured result of the team’s work.\n\n\n\n\n\nThe proposed “Smile & Subscribe” model combines subscription revenue, possible referral partnerships, and care-coordination activities. Logos indicate potential ecosystem participants, not confirmed partnerships; integration and network benefits are proposed."
   },
   {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
+    "objectID": "projects/hospital-surgical-coordination/index.html",
+    "href": "projects/hospital-surgical-coordination/index.html",
+    "title": "Designing surgical coordination at an academic hospital",
     "section": "",
-    "text": "Role: Scientist / Technical Product Lead, 2020–2022."
+    "text": "Role: Team Project Manager and Model Developer in a graduate healthcare consulting engagement.\nI led the graduate consulting team’s stakeholder research and process mapping, and built its Bayesian and Monte Carlo models. Nurses on our team informed intervention design with their clinical experience.\nConfidentiality: Numerical values in this example are mock data used to illustrate the modeling approach. The hospital’s actual data is not shown."
   },
   {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#the-laboratory-workflow-problem",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#the-laboratory-workflow-problem",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
-    "section": "The laboratory workflow problem",
-    "text": "The laboratory workflow problem\nThe digital tool began as an internal way to connect cartridges, device runs, and results so the laboratory team could develop and evaluate assays. Laboratory and distributor feedback revealed a constraint: smartphone QR scanning inside biological safety cabinets did not fit the higher-throughput workflow customers requested."
+    "objectID": "projects/hospital-surgical-coordination/index.html#start-with-the-people",
+    "href": "projects/hospital-surgical-coordination/index.html#start-with-the-people",
+    "title": "Designing surgical coordination at an academic hospital",
+    "section": "Start with the people",
+    "text": "Start with the people\nStakeholder research and peer-hospital benchmarking shaped design criteria for patients, surgical teams, anesthesiology, OR nurses, and hospital operations.\n\n   \n\nDesign synthesis: stakeholder considerations connected to proposed responses and process measures."
   },
   {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#my-contribution-and-the-product-decision",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#my-contribution-and-the-product-decision",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
-    "section": "My contribution and the product decision",
-    "text": "My contribution and the product decision\nI translated that evidence into product requirements and priorities for scanning and linking cartridges to devices before a run and routing results into the customer’s laboratory information management system (LIMS). The team expanded the existing tool into a customer workflow capability.\nMy contribution was product discovery, requirements, and prioritization within the team. The original platform already existed; this work adapted it to external laboratory needs.\n\nFrom an internal tool to a laboratory workflow capability\n\n\n1. Existing tool\nCartridge → device run → results.\nThe internal tool supported assay development and evaluation.\n\n\n2. Evidence that changed priorities\nSmartphone QR scanning inside a biological safety cabinet did not fit the requested laboratory workflow.\nLaboratory and distributor input informed the requirements.\n\n\n3. Expanded capability\nPre-run cartridge/device association → device run → results routed to customer LIMS.\nThe resulting workflow capability reached customer deployment.\n\n\n\nRetrospective reconstruction of the confirmed workflow. My contribution was translating laboratory evidence into product requirements and priorities; the team expanded and delivered the capability."
+    "objectID": "projects/hospital-surgical-coordination/index.html#redesign-the-handoffs",
+    "href": "projects/hospital-surgical-coordination/index.html#redesign-the-handoffs",
+    "title": "Designing surgical coordination at an academic hospital",
+    "section": "Redesign the handoffs",
+    "text": "Redesign the handoffs\nWe proposed shared scheduling, a clinical-coordination role, and staged patient communication to address fragmented planning and limited pre-operative visibility.\n\n   \n\nReconstructed service blueprint. The shared workflow and patient touchpoints were proposed changes."
   },
   {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#workflow-result",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#workflow-result",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
-    "section": "Workflow result",
-    "text": "Workflow result\nThe workflow capability reached customer deployment during my involvement. A reliable individual-user adoption count is unavailable, so this case does not quantify adoption or throughput improvement."
+    "objectID": "projects/hospital-surgical-coordination/index.html#build-a-model-around-evidence-and-uncertainty",
+    "href": "projects/hospital-surgical-coordination/index.html#build-a-model-around-evidence-and-uncertainty",
+    "title": "Designing surgical coordination at an academic hospital",
+    "section": "Build a model around evidence and uncertainty",
+    "text": "Build a model around evidence and uncertainty\nThe recorded outcomes did not establish causes. I combined Bayesian inference with assumption-driven workflow simulation to explore coordination options and identify measurement gaps.\nI chose these methods to connect workflow design to the evidence we had:\n\nThe network made assumed relationships explicit: how coordination, scheduling, patient readiness, anesthesia, and the OR team connected to recorded outcomes.\nBayesian inference combined prior assumptions with outcome data while retaining uncertainty about factors we could not observe directly.\nMonte Carlo simulation carried that uncertainty through repeated draws, allowing us to explore a range of possible workflow outcomes under stated assumptions.\n\n\n   \n\nConceptual reconstruction of the exploratory model. Process links and scenario changes were assumptions; intervention effects were not validated.\n\n\n\n\n\n\nReconstructed network with a working mock Bayesian update. Play the walkthrough to follow priors, evidence, updated beliefs, and joint posterior draws. The numerical example is simplified; it does not reproduce the original fitted model.\n\n\nOpen the model demonstration in a full page"
   },
   {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#diagnostic-product-context",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#diagnostic-product-context",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
-    "section": "Diagnostic product context",
-    "text": "Diagnostic product context\nThe broader COVID-19 molecular diagnostic achieved 99.1% overall agreement with laboratory RT-PCR results in an independent clinical study of 330 patients. The development timeline was 14 months from concept through clinical validation. These are diagnostic-product results, separate from the digital workflow’s adoption and throughput.\n\n\n\nBiologyWorks k(now) device with its test cartridge inserted. This image provides product context for the workflow above."
-  },
-  {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#broader-product-leadership",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#broader-product-leadership",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
-    "section": "Broader product leadership",
-    "text": "Broader product leadership\nBefore the pandemic, entrepreneurs took an interest in diagnostic patents I had generated at Monolythix. At BiologyWorks, I supported business planning, market analysis, user research, and investor communication as the team built a laboratory and developed the diagnostic product.\n\nLed discovery through 20+ interviews with patients, laboratory technicians, and clinical partners and assessed 10+ molecular-diagnostic platforms to inform product positioning.\nTranslated stakeholder needs into product specifications and coordinated a six-person team across engineering, regulatory, and business functions.\nDirected molecular-assay development and planned roadmaps, milestones, and resource allocation through the 14-month concept-to-validation program.\nSupported investor and grant communication for the company’s $11M seed round and separate $100K Gates Foundation award.\nEstablished laboratory infrastructure and coordinated onsite laboratory work with remote and cross-site business and engineering teams."
-  },
-  {
-    "objectID": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#supporting-discovery-artifacts",
-    "href": "projects/k(now) COVID-19 Molecular Test/k(now) COVID-19 Molecular Test.html#supporting-discovery-artifacts",
-    "title": "BiologyWorks: Adapting a diagnostic workflow for laboratory use",
-    "section": "Supporting discovery artifacts",
-    "text": "Supporting discovery artifacts\nThese existing artifacts describe the broader diagnostic user experience. They include proposed design ideas and should not be read as evidence that every feature was delivered.\n\n\n\nUser questions and design ideas spanning setup, sample collection, safety, trust, privacy, and ethics. The “New Ideas” row records proposals.\n\n\n\n\n\nHigh-level diagnostic journey connecting customer touchpoints with internal work. This is broader discovery context, separate from the laboratory workflow reconstruction."
+    "objectID": "projects/hospital-surgical-coordination/index.html#plan-implementation-and-measurement",
+    "href": "projects/hospital-surgical-coordination/index.html#plan-implementation-and-measurement",
+    "title": "Designing surgical coordination at an academic hospital",
+    "section": "Plan implementation and measurement",
+    "text": "Plan implementation and measurement\nWe delivered models, coordination recommendations, and a phased implementation roadmap that was well received by hospital stakeholders. The roadmap linked clinical workflow changes, technology, and measurement through staged review gates.\n\n   \n\nThe roadmap was well received. Phases and review gates show the proposed approach; implementation and realized benefits remain unverified."
   }
 ]

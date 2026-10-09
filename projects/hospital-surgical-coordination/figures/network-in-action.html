@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Bayesian network in action — mock example</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;color:#173343;background:#fff}main{padding:16px 8px 24px;max-width:1050px;margin:auto}h2{font-size:24px;line-height:1.25;margin:0 0 6px}p{margin:8px 0}.eyebrow{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:#536875}.muted{color:#536875}.controls{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}button,select{font:inherit;color:inherit;background:#fff;border:1px solid #9facb3;border-radius:5px;padding:8px 12px;cursor:pointer}button:focus-visible,select:focus-visible{outline:3px solid #287e82;outline-offset:2px}button[aria-pressed=true],#play{background:#173343;color:white;border-color:#173343}button:disabled{opacity:.6;cursor:default}.stages{display:flex;gap:6px;flex-wrap:wrap}.stages button{font-size:14px}.legend{display:flex;flex-wrap:wrap;gap:18px;font-size:13px;margin:12px 0}.key{display:inline-block;width:18px;height:10px;margin-right:6px;background:#e2f0ed}.key.outcome{background:#e8eef4}.key.edge{height:2px;background:#536875;vertical-align:middle}.network{width:100%;display:block}.network text{fill:#173343;font-family:inherit}.node rect{fill:#e2f0ed;stroke:#b4d4ce;stroke-width:1}.node.outcome rect{fill:#e8eef4;stroke:#c4d1de}.node.selected rect{stroke:#287e82;stroke-width:2}.node text.value{font-size:15px;fill:#536875}.edge{fill:none;stroke:#bcc9ce;stroke-width:1.3}.edge.active{stroke:#287e82;stroke-width:2}.edge.dependency{stroke-dasharray:6 5}.packet{fill:#287e82}.panels{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:16px}.panel h3{font-size:17px;margin:0 0 10px}.panel label{font-size:14px;display:flex;justify-content:space-between;align-items:center;gap:8px}.panel select{font-size:14px;max-width:210px;padding:5px}.chart{width:100%;display:block}.range{font-size:14px;font-variant-numeric:tabular-nums}.status{min-height:76px;font-size:15px;background:#f4f7f8;padding:12px 16px;border-left:3px solid #287e82}.evidence{font-size:14px;min-height:48px}.caption{font-size:13px}.numbers{font-variant-numeric:tabular-nums}.notice{padding-top:12px;border-top:1px solid #dbe2e5;margin-top:18px;font-size:13px}details{font-size:13px}summary{cursor:pointer}noscript{display:block;padding:12px;background:#f4f7f8}@media(max-width:600px){main{padding:12px 4px 20px}h2{font-size:21px}.panels{grid-template-columns:1fr;gap:18px}.status{min-height:100px}.stages button{padding:7px 9px}.legend{gap:10px;font-size:12px}.panel select{max-width:190px}}
+</style>
+</head>
+<body>
+<main id="network-content">
+<p class="eyebrow">Reconstructed demonstration · mock values</p>
+<h2>From uncertain factors to possible outcomes</h2>
+<p class="muted">Follow one synthetic batch through the model. Select a factor to trace its connections.</p>
+<div class="controls"><button id="play" type="button">Play walkthrough</button><div class="stages" aria-label="Model stages">
+<button type="button" data-stage="0" aria-pressed="true">1. Prior</button>
+<button type="button" data-stage="1" aria-pressed="false">2. Evidence</button>
+<button type="button" data-stage="2" aria-pressed="false">3. Update</button>
+<button type="button" data-stage="3" aria-pressed="false">4. Predict</button>
+</div></div>
+<p id="status" class="status" role="status" aria-live="polite"></p>
+<div class="legend"><span><i class="key"></i>Unobserved operating factors</span><span><i class="key outcome"></i>Recorded outcomes</span><span><i class="key edge"></i>Assumed model links</span></div>
+<svg id="network" class="network" role="img" aria-labelledby="network-title network-desc"><title id="network-title">Bayesian operating-factor network</title><desc id="network-desc">Coordination, scheduling, patient readiness, and anesthesia readiness connect to non-cancellation and timely starts. Anesthesia and the OR team connect to timely ends; all five factors connect to efficiency. Timely-start probability also connects to timely-end probability. These are assumed statistical links, not proven causes.</desc></svg>
+<p id="evidence" class="evidence numbers"></p>
+<div class="panels">
+<section class="panel"><label for="factor">Inspect a factor <select id="factor"></select></label><svg id="factor-chart" class="chart" viewBox="0 0 600 235" role="img" aria-label="Selected factor prior and posterior density"></svg><p id="factor-range" class="range"></p></section>
+<section class="panel"><h3>Possible outcomes</h3><svg id="outcome-chart" class="chart" viewBox="0 0 600 235" role="img" aria-label="Central 90 percent range of modeled outcome probabilities and expected efficiency"></svg><p class="caption muted">Dots: model means. Lines: central 90% ranges of modeled probabilities or expected efficiency, not intervals for observed results.</p></section>
+</div>
+<p id="sample" class="caption numbers" aria-live="off">A distribution preserves the range of possible operating conditions.</p>
+<p class="notice"><strong>Mock example only.</strong> No hospital data, fitted parameters, or original model inputs are shown. The network links are reconstructed from the project code; all numerical values are synthetic. Arrows represent model assumptions, not demonstrated intervention effects.</p>
+<details><summary>How this demonstration is calculated</summary><p>Five independent beta priors generate 12,000 candidate factor sets. Fixed illustrative logistic coefficients connect them to three session-level binary outcomes and expected efficiency. A synthetic batch of 20 sessions supplies binomial likelihoods and a normal likelihood for mean efficiency. Importance weights approximate the joint posterior. The animation draws whole factor sets from that posterior, preserving the dependence introduced by conditioning on shared outcomes.</p><p>The original implementation used PyMC and MCMC to estimate uncertain factors, weights, and intercepts. This small demonstration fixes the coefficients and omits room, weekday, and staffing effects. The start-to-end link uses predicted start probability, as in the project code. It illustrates the mechanics, not the original model's fit or hospital performance.</p><p id="diagnostic" class="numbers"></p></details>
+<noscript>The original model linked five uncertain operating factors to cancellations, start and end timing, and efficiency. JavaScript is required for this mock demonstration.</noscript>
+</main>
+<script src="network-model.js"></script>
+<script>
+(() => {
+  'use strict';
+  const model=SurgicalNetworkDemo.build(), NS='http://www.w3.org/2000/svg';
+  const $=id=>document.getElementById(id), random=SurgicalNetworkDemo.rng(8291);
+  const reduce=window.matchMedia('(prefers-reduced-motion: reduce)');
+  const descriptions=[
+    'Start with distributions, not scores. The five mock priors share a midpoint but differ in uncertainty. Each factor is unobserved; recorded outcomes provide indirect evidence.',
+    'Add a synthetic batch of 20 sessions: 17 without cancellation, 9 timely starts, 12 timely ends, and mean efficiency of 68%. These observations constrain combinations of factors; they do not identify a single cause.',
+    'Condition on the evidence. Candidate factor sets that better explain all four outcomes receive more weight. Beliefs shift together, while uncertainty remains visible.',
+    'Draw from the joint posterior and pass each factor set through the network. Different plausible conditions produce different outcome probabilities. These draws inform an exploratory simulation, not a forecast of intervention benefits.'
+  ];
+  const outputNames=['No cancellation','Timely start','Timely end','Expected efficiency'];
+  let stage=0,selected=0,playing=false,timer=null,frame=null,curveFrame=null,paths=[],nodes=[],sample=null;
+  function el(tag,attrs={},text='') { const e=document.createElementNS(NS,tag);for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);if(text)e.textContent=text;return e; }
+  function stop() { playing=false;clearTimeout(timer);cancelAnimationFrame(frame);cancelAnimationFrame(curveFrame);frame=null;curveFrame=null;$('play').textContent='Play walkthrough'; }
+  function network() {
+    const svg=$('network'),mobile=window.innerWidth<=600,W=mobile?480:1000,H=mobile?620:435;
+    svg.setAttribute('viewBox',`0 0 ${W} ${H}`);
+    [...svg.children].filter(e=>!['title','desc'].includes(e.tagName)).forEach(e=>e.remove());
+    const defs=el('defs'),mark=el('marker',{id:'arrow',viewBox:'0 0 10 10',refX:9,refY:5,markerWidth:6,markerHeight:6,orient:'auto-start-reverse'});mark.append(el('path',{d:'M 0 0 L 10 5 L 0 10 z',fill:'#839ba3'}));defs.append(mark);svg.append(defs);
+    const fw=mobile?168:246,ow=mobile?174:246,x1=mobile?6:12,x2=W-ow-(mobile?6:12),nh=mobile?74:66;
+    const fpos=SurgicalNetworkDemo.names.map((_,i)=>[x1,24+i*(mobile?112:80)]);
+    const opos=outputNames.map((_,i)=>[x2,44+i*(mobile?145:100)]);
+    paths=[];nodes=[];
+    SurgicalNetworkDemo.edges.forEach(([a,b])=>{
+      const [fx,fy]=fpos[a],[ox,oy]=opos[b],startX=fx+fw,endX=ox,sy=fy+nh/2,ey=oy+nh/2,mid=(startX+endX)/2;
+      const path=el('path',{d:`M ${startX} ${sy} C ${mid} ${sy}, ${mid} ${ey}, ${endX-5} ${ey}`,class:'edge','marker-end':'url(#arrow)'});svg.append(path);paths.push({a,b,path});
+    });
+    const [sx,sy]=opos[1],[ex,ey]=opos[2];
+    svg.append(el('path',{d:`M ${sx+ow/2} ${sy+nh} L ${ex+ow/2} ${ey-5}`,class:'edge dependency','marker-end':'url(#arrow)'}));
+    function node(label,pos,width,kind,i) {
+      const [x,y]=pos,g=el('g',{class:`node ${kind}`,transform:`translate(${x} ${y})`});g.append(el('rect',{width,height:nh,rx:7}));
+      const words=label.split(' '),lines=label.length>18?[words.slice(0,-1).join(' '),words.at(-1)]:[label];
+      lines.forEach((line,j)=>g.append(el('text',{x:12,y:lines.length===1?25:21+j*19,'font-size':mobile?17:18},line)));
+      const value=el('text',{x:12,y:nh-12,class:'value'});g.append(value);svg.append(g);nodes.push({g,value,kind,i});
+    }
+    SurgicalNetworkDemo.names.forEach((n,i)=>node(n,fpos[i],fw,'factor',i));outputNames.forEach((n,i)=>node(n,opos[i],ow,'outcome',i));
+    highlight();values();
+  }
+  function highlight(){ paths.forEach(x=>x.path.classList.toggle('active',x.a===selected));nodes.forEach(x=>x.g.classList.toggle('selected',x.kind==='factor'&&x.i===selected)); }
+  function values(){ const fs=stage>=2?model.posteriorFactors:model.priorFactors,os=stage>=2?model.posteriorOutcomes:model.priorOutcomes;nodes.forEach(n=>{const v=sample?(n.kind==='factor'?sample.f[n.i]:sample.p[n.i]):(n.kind==='factor'?fs[n.i].mean:os[n.i].mean);n.value.textContent=(sample?'Draw: ':'Mean: ')+Math.round(v*100)+'%';}); }
+  function curves(animate=false){
+    const svg=$('factor-chart'), W=window.innerWidth<=600?480:600, span=W-74, center=W/2;svg.setAttribute('viewBox',`0 0 ${W} 235`);svg.replaceChildren();const bins=36, densities=w=>{const b=Array(bins).fill(0);model.samples.forEach((s,i)=>b[Math.min(bins-1,Math.floor(s.f[selected]*bins))]+=w[i]*bins);return b;};
+    const a=densities(model.prior),b=densities(model.posterior),max=Math.max(...a,...b)*1.12;
+    svg.append(el('line',{x1:42,y1:170,x2:W-32,y2:170,stroke:'#aebfc5'}));
+    for(let i=0;i<=4;i++){const x=42+i*span/4;svg.append(el('text',{x,y:196,'text-anchor':'middle','font-size':20,fill:'#536875'},String(i/4)));}
+    svg.append(el('text',{x:42,y:23,'font-size':20},'Density'));
+    svg.append(el('text',{x:center,y:225,'text-anchor':'middle','font-size':20},'Assumed factor level (0–1)'));
+    function line(d,color,dash){const p=d.map((v,i)=>`${i?'L':'M'} ${42+(i+.5)*span/bins} ${170-v*135/max}`).join(' ');svg.append(el('path',{d:p,fill:'none',stroke:color,'stroke-width':3,...(dash?{'stroke-dasharray':'8 5'}:{})}));}
+    line(a,'#839ba3',true);if(stage>=2){
+      line(b,'#287e82',false);
+      if(animate&&!reduce.matches){
+        const path=svg.children[svg.children.length-1];let began=null;
+        function morph(now){if(began===null)began=now;const t=Math.min(1,(now-began)/900),ease=t*t*(3-2*t);const d=a.map((v,i)=>v+(b[i]-v)*ease);path.setAttribute('d',d.map((v,i)=>`${i?'L':'M'} ${42+(i+.5)*span/bins} ${170-v*135/max}`).join(' '));if(t<1)curveFrame=requestAnimationFrame(morph);}
+        curveFrame=requestAnimationFrame(morph);
+      }
+    }
+    const s=stage>=2?model.posteriorFactors[selected]:model.priorFactors[selected];
+    $('factor-range').textContent=`${stage>=2?'Updated belief':'Prior'}: mean ${Math.round(s.mean*100)}%; 90% range ${Math.round(s.lo*100)}–${Math.round(s.hi*100)}%. Dashed: prior.${stage>=2?' Solid: posterior.':''}`;
+  }
+  function outcomes(){const svg=$('outcome-chart'),mobile=window.innerWidth<=600,W=mobile?480:600,left=mobile?210:235,span=W-left-35;svg.setAttribute('viewBox',`0 0 ${W} 235`);svg.replaceChildren();const ss=stage>=2?model.posteriorOutcomes:model.priorOutcomes;ss.forEach((s,i)=>{const y=24+i*45;svg.append(el('text',{x:8,y:y+6,'font-size':20},outputNames[i]));svg.append(el('line',{x1:left+s.lo*span,y1:y,x2:left+s.hi*span,y2:y,stroke:'#839ba3','stroke-width':5}));svg.append(el('circle',{cx:left+s.mean*span,cy:y,r:5,fill:'#287e82'}));});for(let i=0;i<=4;i++)svg.append(el('text',{x:left+i*span/4,y:214,'font-size':20,'text-anchor':'middle'},i*25+'%'));}
+  function setStage(n){sample=null;stage=n;$('status').textContent=descriptions[n];document.querySelectorAll('[data-stage]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.stage)===n)));$('evidence').textContent=n===0?'Prior means and uncertainty before observing the mock batch.':'Mock evidence: 20 sessions · 17 not cancelled · 9 timely starts · 12 timely ends · 68% mean efficiency';$('sample').textContent=n===3?'Each animated draw is one plausible joint factor set; node values are probabilities, not simulated patient outcomes.':'A distribution preserves the range of possible operating conditions.';curves(n===2);outcomes();values();notifyHeight();}
+  function notifyHeight(){requestAnimationFrame(()=>{if(window.parent!==window)window.parent.postMessage({type:'surgical-network-height',height:$('network-content').getBoundingClientRect().height},'*');});}
+  function animateDraws(done){
+    if(reduce.matches){sample=model.draw(random());values();$('sample').textContent='One posterior factor set shown. Reduced motion is enabled; no moving markers.';timer=setTimeout(done,3000);return;}
+    let start=null,last=-1;const packets=paths.map(x=>{const dot=el('circle',{r:4,class:'packet'});$('network').append(dot);return {dot,path:x.path};});
+    const cleanup=()=>packets.forEach(x=>x.dot.remove());
+    function tick(now){if(!playing){cleanup();return;}if(start===null)start=now;const elapsed=now-start,index=Math.floor(elapsed/1100);if(index>=8){cleanup();sample=null;values();done();return;}if(index!==last){last=index;sample=model.draw(random());values();$('sample').textContent=`Posterior draw ${index+1} of 8 · coordination ${Math.round(sample.f[0]*100)}% · timely-start probability ${Math.round(sample.p[1]*100)}%.`;}
+      const t=(elapsed%1100)/1100;packets.forEach(({dot,path})=>{const p=path.getPointAtLength(t*path.getTotalLength());dot.setAttribute('cx',p.x);dot.setAttribute('cy',p.y);dot.style.opacity=t>.92?'0':'0.7';});frame=requestAnimationFrame(tick);
+    } frame=requestAnimationFrame(tick);
+  }
+  $('factor').replaceChildren(...SurgicalNetworkDemo.names.map((n,i)=>{const o=document.createElement('option');o.value=i;o.textContent=n;return o;}));
+  $('factor').addEventListener('change',e=>{selected=Number(e.target.value);highlight();curves();});
+  document.querySelectorAll('[data-stage]').forEach(b=>b.addEventListener('click',()=>{stop();document.querySelectorAll('.packet').forEach(x=>x.remove());setStage(Number(b.dataset.stage));}));
+  $('play').addEventListener('click',()=>{if(playing){stop();document.querySelectorAll('.packet').forEach(x=>x.remove());sample=null;values();return;}playing=true;$('play').textContent='Pause walkthrough';setStage(0);function advance(){if(!playing)return;if(stage<3){setStage(stage+1);timer=setTimeout(advance,stage===1?3500:4500);}else animateDraws(()=>{sample=null;values();stop();});}timer=setTimeout(advance,3000);});
+  let lastWidth=window.innerWidth;
+  window.addEventListener('resize',()=>{if(window.innerWidth!==lastWidth){lastWidth=window.innerWidth;stop();sample=null;network();curves();outcomes();notifyHeight();}});
+  document.querySelector('details').addEventListener('toggle',notifyHeight);
+  reduce.addEventListener('change',()=>{stop();document.querySelectorAll('.packet').forEach(x=>x.remove());});
+  $('diagnostic').textContent=`Approximate weighted effective sample size: ${Math.round(model.ess).toLocaleString()} of ${model.samples.length.toLocaleString()} candidates. This diagnostic describes the mock importance sampler only.`;
+  network();setStage(0);window.addEventListener('load',notifyHeight);
+})();
+</script>
+</body>
+</html>

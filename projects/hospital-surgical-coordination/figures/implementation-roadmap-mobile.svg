@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1454" viewBox="0 0 480 1454" role="img" aria-labelledby="title desc">
+<title id="title">Proposed implementation roadmap</title><desc id="desc">A proposed implementation roadmap connects foundation and alignment, workflow redesign, technology pilot, and rollout and improvement. Each phase has proposed activities and a review gate. The roadmap was well received by hospital stakeholders; deployment and realized benefits remain unverified. Calendar dates are omitted.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#718a95"/></marker></defs>
+<rect x="0" y="0" width="480" height="1454" rx="0" fill="#ffffff"/>
+<text x="28" y="34" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="28" dy="0">05 / DESIGN + ANALYSIS</tspan>
+</text>
+<text x="28" y="76" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">
+<tspan x="28" dy="0">Implementation roadmap</tspan>
+</text>
+<text x="28" y="111" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="28" dy="0">Proposed phases; calendar dates omitted</tspan>
+</text>
+<rect x="24" y="142" width="432" height="253" rx="12" fill="#f4f8fa"/>
+<text x="43" y="170" fill="#315c90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PHASE 01</tspan>
+</text>
+<text x="43" y="203" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="43" dy="0">Foundation and alignment</tspan>
+</text>
+<text x="43" y="232" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="43" dy="0">Clinical + operations leads</tspan>
+</text>
+<text x="43" y="268" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Map workflow and baseline</tspan>
+<tspan x="43" dy="27">Agree governance and KPIs</tspan>
+<tspan x="43" dy="27">Assess data and integration</tspan>
+</text>
+<text x="43" y="355" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">
+<tspan x="43" dy="0">REVIEW GATE</tspan>
+</text>
+<text x="43" y="378" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">
+<tspan x="43" dy="0">Workflow and baseline agreed</tspan>
+</text>
+<path d="M240,400 L240,421" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="429" width="432" height="253" rx="12" fill="#eaf5f4"/>
+<text x="43" y="457" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PHASE 02</tspan>
+</text>
+<text x="43" y="490" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="43" dy="0">Workflow redesign</tspan>
+</text>
+<text x="43" y="519" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="43" dy="0">Nurses + clinical teams</tspan>
+</text>
+<text x="43" y="555" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Build readiness checklists</tspan>
+<tspan x="43" dy="27">Define shared scheduling</tspan>
+<tspan x="43" dy="27">Standardize handoffs</tspan>
+</text>
+<text x="43" y="642" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">
+<tspan x="43" dy="0">REVIEW GATE</tspan>
+</text>
+<text x="43" y="665" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">
+<tspan x="43" dy="0">Clinical tabletop review</tspan>
+</text>
+<path d="M240,687 L240,708" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="716" width="432" height="253" rx="12" fill="#f4f8fa"/>
+<text x="43" y="744" fill="#315c90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PHASE 03</tspan>
+</text>
+<text x="43" y="777" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="43" dy="0">Technology pilot</tspan>
+</text>
+<text x="43" y="806" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="43" dy="0">Pilot teams + IT support</tspan>
+</text>
+<text x="43" y="842" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Integrate scheduling views</tspan>
+<tspan x="43" dy="27">Provide role-based training</tspan>
+<tspan x="43" dy="27">Run a controlled pilot</tspan>
+</text>
+<text x="43" y="929" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">
+<tspan x="43" dy="0">REVIEW GATE</tspan>
+</text>
+<text x="43" y="952" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">
+<tspan x="43" dy="0">Pilot readiness and lessons review</tspan>
+</text>
+<path d="M240,974 L240,995" fill="none" stroke="#718a95" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="24" y="1003" width="432" height="253" rx="12" fill="#f4f8fa"/>
+<text x="43" y="1031" fill="#315c90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">
+<tspan x="43" dy="0">PHASE 04</tspan>
+</text>
+<text x="43" y="1064" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">
+<tspan x="43" dy="0">Rollout and improvement</tspan>
+</text>
+<text x="43" y="1093" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="400">
+<tspan x="43" dy="0">Clinical + operations leads</tspan>
+</text>
+<text x="43" y="1129" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400">
+<tspan x="43" dy="0">Roll out in stages</tspan>
+<tspan x="43" dy="27">Review process measures</tspan>
+<tspan x="43" dy="27">Verify benefits and refine</tspan>
+</text>
+<text x="43" y="1216" fill="#177d86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">
+<tspan x="43" dy="0">REVIEW GATE</tspan>
+</text>
+<text x="43" y="1239" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">
+<tspan x="43" dy="0">Sustained process review</tspan>
+</text>
+<text x="28" y="1337" fill="#173343" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">
+<tspan x="28" dy="0">Well received by hospital stakeholders.</tspan>
+</text>
+<text x="28" y="1383" fill="#536875" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="400">
+<tspan x="28" dy="0">Implementation and realized benefits</tspan>
+<tspan x="28" dy="23.459999999999997">remain unverified.</tspan>
+</text>
+</svg>
